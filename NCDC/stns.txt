@@ -1,0 +1,744 @@
+160007  99999   ABBEVILLE                      UNITED STATES                    LA     VERMILION                       07              29:58      -092:07     10    
+160101  99999   ALEXANDRIA #2                  UNITED STATES                    LA     RAPIDES                         05              31:19      -092:27     44    
+160205  99999   AMITE                          UNITED STATES                    LA     TANGIPAHOA                      06              30:42      -090:31     170   
+160244  99999   ANGOLA                         UNITED STATES                    LA     WEST FELICIANA                  06              30:57      -091:35     39    
+160253  99999   ANTIOCH FIRE TWR               UNITED STATES                    LA     CLAIBORNE                       02              32:53      -093:00     348   
+160277  99999   ARCADIA                        UNITED STATES                    LA     BIENVILLE                       02              32:33      -092:55     400   
+160395  99999   AVOCA ISLAND                   UNITED STATES                    LA     ST. MARY                        99              29:41      -091:12     9     
+160537  99999   BASTROP                        UNITED STATES                    LA     MOREHOUSE                       03              32:46      -092:00     150   
+160555  99999   BATON ROUGE                    UNITED STATES                    LA     WEST BATON ROUGE                06              30:25      -091:12     20    
+161323  99999   BURNSIDE                       UNITED STATES                    LA     ASCENSION                       99              30:09      -090:55     -99999
+161335  12863   BURRWOOD WB                    UNITED STATES                    LA     PLAQUEMINES                     09              28:58      -089:23     13    
+161380  99999   CADES                          UNITED STATES                    LA     ST. MARTIN                      99              30:06      -091:54     -99999
+161411  99999   CALHOUN RSCH STN               UNITED STATES                    LA     OUACHITA                        02              32:30      -092:20     180   
+161425  99999   CAMERON                        UNITED STATES                    LA     CAMERON                         02              29:45      -093:20     10    
+161431  99999   CAMP BEAUREGARD                UNITED STATES                    LA     RAPIDES                         99              31:22      -092:24     157   
+161560  99999   CARROLLTON                     UNITED STATES                    LA     ORLEANS                         99              29:56      -090:07     7     
+161577  99999   CASPIANA                       UNITED STATES                    LA     CADDO                           99              32:16      -093:34     -99999
+161729  99999   CHENEYVILLE 1 NE               UNITED STATES                    LA     RAPIDES                         05              31:01      -092:17     59    
+161807  99999   CINCLARE                       UNITED STATES                    LA     WEST BATON ROUGE                05              30:24      -091:14     30    
+161891  99999   CLINTON FORESTRY HQ            UNITED STATES                    LA     EAST FELICIANA                  06              30:51      -091:00     250   
+161941  99999   COLFAX                         UNITED STATES                    LA     GRANT                           05              31:31      -092:42     110   
+161956  99999   COLLINSTON                     UNITED STATES                    LA     MOREHOUSE                       99              32:40      -091:52     89    
+161981  99999   COMO                           UNITED STATES                    LA     FRANKLIN                        99              32:06      -091:36     -99999
+162140  99999   COUSHATTA 1 SE                 UNITED STATES                    LA     RED RIVER                       01              32:01      -093:20     151   
+162143  99999   COUSHATTA 2                    UNITED STATES                    LA     RED RIVER                       01              32:01      -093:21     141   
+162151  99999   COVINGTON 4 NNW                UNITED STATES                    LA     ST. TAMMANY                     06              30:31      -090:06     40    
+162212  99999   CROWLEY 2 NE                   UNITED STATES                    LA     ACADIA                          07              30:14      -092:20     25    
+162271  99999   DALCOUR                        UNITED STATES                    LA     PLAQUEMINES                     99              29:49      -090:00     79    
+162309  99999   DAVIS                          UNITED STATES                    LA     CATAHOULA                       99              31:53      -091:50     -99999
+162334  99999   DELTA FARMS                    UNITED STATES                    LA     LAFOURCHE                       99              29:36      -090:21     1     
+162367  99999   DE RIDDER                      UNITED STATES                    LA     BEAUREGARD                      07              30:50      -093:17     190   
+162399  99999   DELHI                          UNITED STATES                    LA     RICHLAND                        99              32:27      -091:30     102   
+162525  99999   DODSON 6 ENE                   UNITED STATES                    LA     WINN                            01              32:06      -092:35     200   
+162534  99999   DONALDSONVILLE 4 SW            UNITED STATES                    LA     ASSUMPTION                      08              30:04      -091:01     30    
+162684  99999   DUTCHTOWN                      UNITED STATES                    LA     ASCENSION                       99              30:15      -090:59     -99999
+162800  99999   ELIZABETH                      UNITED STATES                    LA     ALLEN                           07              30:51      -092:47     150   
+162872  99999   EMILIE                         UNITED STATES                    LA     ST. JOHN THE BAPTIST            99              30:04      -090:37     20    
+163079  99999   FARMERVILLE                    UNITED STATES                    LA     UNION                           02              32:46      -092:24     180   
+163117  99999   FERRIDAY                       UNITED STATES                    LA     CONCORDIA                       99              31:38      -091:34     -99999
+163313  99999   FRANKLIN 3 NW                  UNITED STATES                    LA     ST. MARY                        08              29:49      -091:32     12    
+163321  99999   FRANKLINTON                    UNITED STATES                    LA     WASHINGTON                      06              30:50      -090:09     124   
+163544  99999   GEORGETOWN                     UNITED STATES                    LA     GRANT                           99              31:45      -092:23     89    
+163630  99999   GIRARD                         UNITED STATES                    LA     RICHLAND                        99              32:28      -091:48     79    
+163794  99999   GRAND CANE FIRE TWR            UNITED STATES                    LA     DE SOTO                         01              32:08      -093:48     270   
+163798  99999   GRAND CHENIER                  UNITED STATES                    LA     CAMERON                         07              29:46      -092:57     10    
+163800  99999   GRAND COTEAU                   UNITED STATES                    LA     ST. LANDRY                      05              30:25      -092:02     55    
+163804  99999   GRAND ECORE                    UNITED STATES                    LA     NATCHITOCHES                    04              31:48      -093:05     150   
+163930  99999   GUEYDAN 5 S                    UNITED STATES                    LA     VERMILION                       07              29:57      -092:31     10    
+164021  99999   HAMBURG                        UNITED STATES                    LA     AVOYELLES                       99              31:01      -091:56     49    
+164034  99999   HAMMOND                        UNITED STATES                    LA     TANGIPAHOA                      06              30:29      -090:28     90    
+164348  99999   HOMEPLACE                      UNITED STATES                    LA     PLAQUEMINES                     99              29:28      -089:40     -99999
+164355  99999   HOMER 1N                       UNITED STATES                    LA     CLAIBORNE                       02              32:48      -093:03     215   
+164367  99999   HONORE                         UNITED STATES                    LA     BOSSIER                         99              32:30      -093:40     -99999
+164407  99999   HOUMA                          UNITED STATES                    LA     TERREBONNE                      09              29:35      -090:43     15    
+164674  99999   JEANERETTE 5 NW                UNITED STATES                    LA     IBERIA                          08              29:57      -091:42     20    
+164693  99999   JENA 2E                        UNITED STATES                    LA     LA SALLE                        01              31:41      -092:05     151   
+164700  99999   JENNINGS                       UNITED STATES                    LA     JEFFERSON DAVIS                 07              30:12      -092:39     25    
+164830  99999   KELLY                          UNITED STATES                    LA     LA SALLE                        99              31:55      -092:09     -99999
+164958  99999   LAARK                          UNITED STATES                    LA     MOREHOUSE                       99              32:58      -091:30     -99999
+165026  13976   LAFAYETTE RGNL AP              UNITED STATES                    LA     LAFAYETTE                       08              30:12      -091:59     38    
+165065  99999   LAKE ARTHUR 10 SW              UNITED STATES                    LA     CAMERON                         07              30:00      -092:46     10    
+165090  99999   LAKE PROVIDENCE                UNITED STATES                    LA     EAST CARROLL                    03              32:48      -091:10     100   
+165156  99999   L ARGENT                       UNITED STATES                    LA     CONCORDIA                       99              31:45      -091:24     69    
+165207  99999   LAWRENCE                       UNITED STATES                    LA     PLAQUEMINES                     99              29:33      -089:48     10    
+165266  99999   LEESVILLE                      UNITED STATES                    LA     VERNON                          04              31:08      -093:14     28    
+165365  99999   LIBERTY HILL                   UNITED STATES                    LA     BIENVILLE                       99              32:19      -092:55     -99999
+165522  99999   LOGANSPORT                     UNITED STATES                    LA     DE SOTO                         01              31:58      -094:00     190   
+165874  99999   MANSFIELD                      UNITED STATES                    LA     DE SOTO                         01              32:02      -093:42     392   
+165890  99999   MANY                           UNITED STATES                    LA     SABINE                          01              31:34      -093:29     230   
+165980  99999   MAUREPAS                       UNITED STATES                    LA     LIVINGSTON                      99              30:18      -090:39     0     
+166117  99999   MELVILLE                       UNITED STATES                    LA     ST. LANDRY                      05              30:41      -091:44     30    
+166146  99999   MERRYVILLE                     UNITED STATES                    LA     BEAUREGARD                      99              30:44      -093:32     30    
+166244  99999   MINDEN                         UNITED STATES                    LA     WEBSTER                         01              32:36      -093:17     185   
+166308  99999   MONROE #2                      UNITED STATES                    LA     OUACHITA                        02              32:31      -092:08     31    
+166324  99999   MONTGOMERY                     UNITED STATES                    LA     GRANT                           01              31:40      -092:54     102   
+166394  99999   MORGAN CITY                    UNITED STATES                    LA     ST. MARY                        08              29:41      -091:10     5     
+166455  99999   MOUND                          UNITED STATES                    LA     MADISON                         99              32:20      -091:01     89    
+166561  99999   NAPOLEONVILLE                  UNITED STATES                    LA     ASSUMPTION                      08              29:56      -091:00     25    
+166582  99999   NATCHITOCHES                   UNITED STATES                    LA     NATCHITOCHES                    04              31:46      -093:05     130   
+166657  99999   NEW IBERIA ACADIANA AP         UNITED STATES                    LA     IBERIA                          08              30:02      -091:53     24    
+166665  99999   NEW ORLEANS AUDUBON            UNITED STATES                    LA     ORLEANS                         09              29:55      -090:08     10    
+166676  99999   NEW ORLEANS CARROLLTON         UNITED STATES                    LA     ORLEANS                         09              29:56      -090:08     0     
+166868  99999   OAK RIDGE                      UNITED STATES                    LA     MOREHOUSE                       03              32:37      -091:46     82    
+167001  99999   OPELOUSAS AP                   UNITED STATES                    LA     ST. LANDRY                      02              30:33      -092:05     69    
+167040  99999   OXFORD                         UNITED STATES                    LA     DE SOTO                         99              31:56      -093:38     258   
+167070  99999   PAINCOURTVILLE                 UNITED STATES                    LA     ASSUMPTION                      09              29:59      -091:05     20    
+167096  99999   PARADIS 7 S                    UNITED STATES                    LA     ST. CHARLES                     09              29:47      -090:25     5     
+167160  99999   PEARL RIVER                    UNITED STATES                    LA     ST. TAMMANY                     06              30:23      -089:44     13    
+167344  99999   PLAIN DEALING 4 W              UNITED STATES                    LA     BOSSIER                         01              32:54      -093:47     290   
+167364  99999   PLAQUEMINE                     UNITED STATES                    LA     IBERVILLE                       08              30:18      -091:14     26    
+167427  99999   PONTCHARTRAIN GROVE            UNITED STATES                    LA                                     99              30:03      -089:37     0     
+167457  99999   PORT EADS                      UNITED STATES                    LA     PLAQUEMINES                     99              29:01      -089:10     10    
+167519  99999   PREVOST ISLAND                 UNITED STATES                    LA     ST. TAMMANY                     99              30:12      -089:44     10    
+167678  99999   RAYNE 6 N                      UNITED STATES                    LA     ACADIA                          07              30:20      -092:16     30    
+167767  99999   RESERVE                        UNITED STATES                    LA     ST. JOHN THE BAPTIST            09              30:03      -090:34     15    
+167825  99999   RICHLAND PLANTATION            UNITED STATES                    LA     RAPIDES                         99              31:17      -092:25     89    
+167905  99999   ROBELINE                       UNITED STATES                    LA     NATCHITOCHES                    04              31:41      -093:18     151   
+168004  99999   ROSELAND                       UNITED STATES                    LA     TANGIPAHOA                      06              30:46      -090:31     -99999
+168046  99999   ROSEPINE RSCH STN              UNITED STATES                    LA     VERNON                          04              30:56      -093:16     238   
+168067  99999   RUSTON LA TECH                 UNITED STATES                    LA     LINCOLN                         02              32:32      -092:41     260   
+168136  99999   ST FRANCISVILLE                UNITED STATES                    LA     WEST FELICIANA                  06              30:46      -091:22     115   
+168139  99999   ST GABRIEL                     UNITED STATES                    LA     IBERVILLE                       08              30:16      -091:05     30    
+168163  99999   ST JOSEPH 3 N                  UNITED STATES                    LA     TENSAS                          03              31:56      -091:14     78    
+168295  99999   SCHRIEVER                      UNITED STATES                    LA     TERREBONNE                      09              29:44      -090:49     20    
+168392  99999   SHELL BEACH                    UNITED STATES                    LA     VERMILION                       99              30:04      -092:38     20    
+168507  99999   SIMMESPORT                     UNITED STATES                    LA     AVOYELLES                       05              30:59      -091:49     49    
+168612  99999   SOUTHERN UNIV FARM             UNITED STATES                    LA     JEFFERSON                       99              29:57      -090:09     10    
+168828  99999   SUGARTOWN                      UNITED STATES                    LA     BEAUREGARD                      07              30:51      -093:01     170   
+168923  99999   TALLULAH                       UNITED STATES                    LA     MADISON                         03              32:23      -091:11     85    
+168930  99999   TEN MILE                       UNITED STATES                    LA     ALLEN                           99              30:46      -092:54     -99999
+169013  99999   THIBODAUX 3 ESE                UNITED STATES                    LA     LAFOURCHE                       09              29:46      -090:46     15    
+169127  99999   TRINITY                        UNITED STATES                    LA     CATAHOULA                       05              31:38      -091:49     50    
+169235  99999   URANIA                         UNITED STATES                    LA     LA SALLE                        05              31:52      -092:18     102   
+169298  99999   VENICE                         UNITED STATES                    LA     PLAQUEMINES                     99              29:17      -089:21     -99999
+169369  99999   VILLE PLATTE                   UNITED STATES                    LA     EVANGELINE                      05              30:41      -092:15     70    
+169375  99999   VINTON                         UNITED STATES                    LA     CALCASIEU                       07              30:11      -093:34     12    
+169435  99999   WALKER                         UNITED STATES                    LA     LIVINGSTON                      99              30:29      -090:52     -99999
+169444  99999   WALLACE                        UNITED STATES                    LA     ST. JAMES                       99              30:03      -090:41     20    
+169613  99999   WEST END                       UNITED STATES                    LA     ORLEANS                         99              30:02      -090:07     -99999
+169682  99999   WHITEHALL                      UNITED STATES                    LA     LIVINGSTON                      99              30:19      -090:42     -99999
+169685  99999   WHITE SULPHUR SPRING           UNITED STATES                    LA     LA SALLE                        99              31:36      -092:16     -99999
+169803  99999   WINNFIELD 3 N                  UNITED STATES                    LA     WINN                            02              31:57      -092:39     160   
+169806  99999   WINNSBORO 5 SSE                UNITED STATES                    LA     FRANKLIN                        03              32:05      -091:42     80    
+169860  99999   WOODWORTH 3 ESE                UNITED STATES                    LA     RAPIDES                         05              31:08      -092:27     69    
+160007  99999   ABBEVILLE                      UNITED STATES                    LA     VERMILION                       07              29:58      -092:07     10    
+160012  99999   ABITA RVR COVINGTON            UNITED STATES                    LA     ST. TAMMANY                     06              30:27      -090:05     3     
+160016  99999   ABITA SPRINGS 1 SW             UNITED STATES                    LA     ST. TAMMANY                     06              30:28      -090:02     25    
+160021  99999   ABITA SPRING FIRE TWR          UNITED STATES                    LA     ST. TAMMANY                     06              30:26      -090:03     30    
+160045  99999   AIMWELL FIRE TWR               UNITED STATES                    LA     CATAHOULA                       05              31:48      -091:58     220   
+160098  99999   ALEXANDRIA                     UNITED STATES                    LA     RAPIDES                         05              31:19      -092:27     87    
+160103  99999   ALEXANDRIA 5 SSE               UNITED STATES                    LA     RAPIDES                         05              31:14      -092:26     85    
+160104  13935   ALEXANDRIA ESLER FLD           UNITED STATES                    LA     RAPIDES                         05              31:23      -092:17     118   
+160205  99999   AMITE                          UNITED STATES                    LA     TANGIPAHOA                      06              30:42      -090:31     170   
+160238  99999   ANGIE                          UNITED STATES                    LA     WASHINGTON                      06              30:57      -089:48     130   
+160253  99999   ANTIOCH FIRE TWR               UNITED STATES                    LA     CLAIBORNE                       02              32:53      -093:00     348   
+160277  99999   ARCADIA                        UNITED STATES                    LA     BIENVILLE                       02              32:33      -092:55     400   
+160349  99999   ASHLAND                        UNITED STATES                    LA     NATCHITOCHES                    04              32:09      -093:07     240   
+160381  99999   ATHENS FIRE TWR                UNITED STATES                    LA     CLAIBORNE                       02              32:39      -093:04     508   
+160462  99999   BAKER                          UNITED STATES                    LA     EAST BATON ROUGE                06              30:34      -091:09     70    
+160537  99999   BASTROP                        UNITED STATES                    LA     MOREHOUSE                       03              32:46      -092:00     150   
+160540  99999   BATCHELOR                      UNITED STATES                    LA     POINTE COUPEE                   05              30:49      -091:39     45    
+160546  99999   BATON ROUGE CNTRL              UNITED STATES                    LA     EAST BATON ROUGE                06              30:33      -091:02     60    
+160548  99999   BATON ROUGE CONCORD            UNITED STATES                    LA     EAST BATON ROUGE                06              30:25      -091:07     50    
+160549  13970   BATON ROUGE RYAN AP            UNITED STATES                    LA     EAST BATON ROUGE                06              30:32      -091:08     64    
+160556  99999   BATON ROUGE SOUTHDOWNS         UNITED STATES                    LA     EAST BATON ROUGE                06              30:24      -091:09     55    
+160558  99999   BATON ROUGE SHERWOOD           UNITED STATES                    LA     EAST BATON ROUGE                06              30:26      -091:02     55    
+160565  99999   BAYOU SORREL LOCK              UNITED STATES                    LA     IBERVILLE                       08              30:07      -091:19     15    
+160617  99999   BEAVER FIRE TWR                UNITED STATES                    LA     EVANGELINE                      05              30:47      -092:29     105   
+160639  99999   BELAH FIRE TWR                 UNITED STATES                    LA     LA SALLE                        05              31:38      -092:11     197   
+160658  99999   BELL CITY 13 SW                UNITED STATES                    LA     CAMERON                         07              29:58      -093:05     4     
+160718  99999   BENTON 5E                      UNITED STATES                    LA     BOSSIER                         01              32:27      -093:50     200   
+160786  99999   BETHANY                        UNITED STATES                    LA     CADDO                           01              32:23      -094:03     370   
+160800  99999   BIENVILLE 3 NE                 UNITED STATES                    LA     BIENVILLE                       02              32:22      -092:56     307   
+160920  99999   BODCAU FIRE TWR                UNITED STATES                    LA     BOSSIER                         01              32:42      -093:31     259   
+160945  99999   BOGALUSA                       UNITED STATES                    LA     WASHINGTON                      06              30:46      -089:51     100   
+161157  12884   BOOTHVILLE ASOS                UNITED STATES                    LA     PLAQUEMINES                     09              29:19      -089:24     3     
+161200  99999   BOSSIER CITY 2                 UNITED STATES                    LA     BOSSIER                         01              32:31      -093:42     163   
+161232  99999   BOYCE 3 WNW                    UNITED STATES                    LA     RAPIDES                         05              31:23      -092:42     110   
+161235  99999   BOYCE 7 SW                     UNITED STATES                    LA     RAPIDES                         05              31:18      -092:43     130   
+161241  99999   BREAUX BRIDGE 4 S              UNITED STATES                    LA     ST. MARTIN                      08              30:13      -091:54     25    
+161246  99999   BRUSLY 2 W                     UNITED STATES                    LA     WEST BATON ROUGE                05              30:23      -091:16     20    
+161287  99999   BUNKIE                         UNITED STATES                    LA     AVOYELLES                       05              30:57      -092:10     80    
+161292  99999   BURAS                          UNITED STATES                    LA     PLAQUEMINES                     09              29:20      -089:30     5     
+161365  99999   BUTTE LA ROSE                  UNITED STATES                    LA     ST. MARTIN                      08              30:16      -091:41     5     
+161411  99999   CALHOUN RSCH STN               UNITED STATES                    LA     OUACHITA                        02              32:30      -092:20     180   
+161535  99999   CARENCRO                       UNITED STATES                    LA     LAFAYETTE                       08              30:18      -092:02     50    
+161565  99999   CARVILLE 2 SW                  UNITED STATES                    LA     IBERVILLE                       08              30:11      -091:07     25    
+161583  99999   CATAHOULA WR                   UNITED STATES                    LA     LA SALLE                        05              31:35      -092:01     45    
+161639  99999   CHALMETTE                      UNITED STATES                    LA     ST. BERNARD                     09              29:57      -089:58     0     
+161866  99999   CLAYTON                        UNITED STATES                    LA     CONCORDIA                       05              31:43      -091:32     73    
+161891  99999   CLINTON FORESTRY HQ            UNITED STATES                    LA     EAST FELICIANA                  06              30:51      -091:00     250   
+161899  99999   CLINTON 5 SE                   UNITED STATES                    LA     EAST FELICIANA                  06              30:49      -090:58     200   
+161941  99999   COLFAX                         UNITED STATES                    LA     GRANT                           05              31:31      -092:42     110   
+161979  99999   COLUMBIA LOCK                  UNITED STATES                    LA     CALDWELL                        02              32:10      -092:06     80    
+162002  99999   CONVENT 2S                     UNITED STATES                    LA     ST. JAMES                       09              29:59      -090:49     25    
+162023  99999   CONVERSE                       UNITED STATES                    LA     SABINE                          04              31:45      -093:42     220   
+162121  99999   COTTON VALLEY 5 NNW            UNITED STATES                    LA     WEBSTER                         01              32:53      -093:27     258   
+162144  99999   COUSHATTA GRAND BAYOU          UNITED STATES                    LA     RED RIVER                       01              32:00      -093:16     155   
+162145  99999   COUSHATTA 2 SW                 UNITED STATES                    LA     RED RIVER                       01              31:59      -093:22     120   
+162151  99999   COVINGTON 4 NNW                UNITED STATES                    LA     ST. TAMMANY                     06              30:31      -090:06     40    
+162154  99999   COVINGTON 3 NE                 UNITED STATES                    LA     ST. TAMMANY                     06              30:30      -090:05     25    
+162212  99999   CROWLEY 2 NE                   UNITED STATES                    LA     ACADIA                          07              30:14      -092:20     25    
+162217  99999   CROWVILLE                      UNITED STATES                    LA     FRANKLIN                        03              32:14      -091:35     89    
+162330  99999   DELTA BREPON WLD RFG           UNITED STATES                    LA     PLAQUEMINES                     09              29:13      -089:16     10    
+162350  99999   DENHAM SPRINGS                 UNITED STATES                    LA     LIVINGSTON                      06              30:28      -090:57     35    
+162361  99999   DE QUINCY                      UNITED STATES                    LA     CALCASIEU                       07              30:26      -093:28     81    
+162364  99999   DE QUINCY FIRE TWR             UNITED STATES                    LA     CALCASIEU                       07              30:22      -093:28     55    
+162367  99999   DE RIDDER                      UNITED STATES                    LA     BEAUREGARD                      07              30:50      -093:17     190   
+162534  99999   DONALDSONVILLE 4 SW            UNITED STATES                    LA     ASSUMPTION                      08              30:04      -091:01     30    
+162536  99999   DONALDSONVILLE 4E              UNITED STATES                    LA     ST. JAMES                       09              30:05      -090:55     17    
+162641  99999   DRY CREEK 8NW                  UNITED STATES                    LA     BEAUREGARD                      07              30:44      -093:08     95    
+162688  99999   DUTCHTOWN #2                   UNITED STATES                    LA     ASCENSION                       09              30:15      -090:59     18    
+162800  99999   ELIZABETH                      UNITED STATES                    LA     ALLEN                           07              30:51      -092:47     150   
+162812  99999   ELMER 2 SW                     UNITED STATES                    LA     RAPIDES                         05              31:06      -092:42     230   
+162971  99999   EPPS 6 WNW                     UNITED STATES                    LA     WEST CARROLL                    03              32:37      -091:34     99    
+162972  99999   EROS                           UNITED STATES                    LA     JACKSON                         02              32:21      -092:22     140   
+162981  99999   EUNICE                         UNITED STATES                    LA     ST. LANDRY                      05              30:29      -092:25     50    
+163079  99999   FARMERVILLE                    UNITED STATES                    LA     UNION                           02              32:46      -092:24     180   
+163142  99999   FLUKER FIRE TWR                UNITED STATES                    LA     TANGIPAHOA                      06              30:50      -090:34     220   
+163165  99999   FOLSOM 6 S                     UNITED STATES                    LA     ST. TAMMANY                     06              30:33      -090:11     70    
+163313  99999   FRANKLIN 3 NW                  UNITED STATES                    LA     ST. MARY                        08              29:49      -091:32     12    
+163322  99999   FRANKLINTON #2                 UNITED STATES                    LA     WASHINGTON                      06              30:50      -090:09     145   
+163327  99999   FRANKLINTON 3 SW               UNITED STATES                    LA     WASHINGTON                      06              30:49      -090:10     145   
+163331  99999   FRANKLINTON 5 SW               UNITED STATES                    LA     WASHINGTON                      06              30:47      -090:12     240   
+163433  99999   GALLIANO                       UNITED STATES                    LA     LAFOURCHE                       09              29:27      -090:18     5     
+163657  99999   GLOSTER 1 W                    UNITED STATES                    LA     DE SOTO                         01              32:12      -093:50     259   
+163681  99999   GOLDEN MEADOW                  UNITED STATES                    LA     LAFOURCHE                       09              29:23      -090:16     0     
+163695  99999   GONZALES                       UNITED STATES                    LA     ASCENSION                       09              30:12      -090:55     10    
+163741  99999   GORUM FIRE TWR                 UNITED STATES                    LA     NATCHITOCHES                    04              31:26      -092:52     307   
+163755  99999   GRAMERCY                       UNITED STATES                    LA     ST. JAMES                       09              30:04      -090:42     20    
+163794  99999   GRAND CANE FIRE TWR            UNITED STATES                    LA     DE SOTO                         01              32:08      -093:48     270   
+163800  99999   GRAND COTEAU                   UNITED STATES                    LA     ST. LANDRY                      05              30:25      -092:02     55    
+163804  99999   GRAND ECORE                    UNITED STATES                    LA     NATCHITOCHES                    04              31:48      -093:05     150   
+163807  99999   GRAND ISLE                     UNITED STATES                    LA     JEFFERSON                       09              29:14      -089:59     2     
+163829  99999   GRETNA                         UNITED STATES                    LA     JEFFERSON                       09              29:55      -090:03     5     
+163864  99999   GREENSBURG                     UNITED STATES                    LA     ST. HELENA                      06              30:50      -090:40     230   
+163867  99999   GREENWELL SPRINGS              UNITED STATES                    LA     EAST BATON ROUGE                06              30:33      -090:59     60    
+163877  99999   GREENWOOD FIRE TWR             UNITED STATES                    LA     CADDO                           01              32:25      -094:00     350   
+163979  99999   HACKBERRY 8 SSW                UNITED STATES                    LA     CAMERON                         07              29:53      -093:24     6     
+163981  99999   HACKBERRY 4NE                  UNITED STATES                    LA     CAMERON                         07              29:59      -093:16     6     
+164030  99999   HAMMOND 5 E                    UNITED STATES                    LA     TANGIPAHOA                      06              30:30      -090:22     35    
+164034  99999   HAMMOND                        UNITED STATES                    LA     TANGIPAHOA                      06              30:29      -090:28     90    
+164050  99999   HANNA 4 SSE                    UNITED STATES                    LA     RED RIVER                       01              31:54      -093:19     118   
+164131  99999   HAYNESVILLE                    UNITED STATES                    LA     CLAIBORNE                       02              32:58      -093:07     303   
+164288  99999   HODGES GARDENS                 UNITED STATES                    LA     SABINE                          04              31:22      -093:23     420   
+164355  99999   HOMER 1N                       UNITED STATES                    LA     CLAIBORNE                       02              32:48      -093:03     215   
+164398  99999   HOSSTON                        UNITED STATES                    LA     CADDO                           01              32:27      -093:50     246   
+164407  99999   HOUMA                          UNITED STATES                    LA     TERREBONNE                      09              29:35      -090:43     15    
+164573  99999   JACKSON 3E                     UNITED STATES                    LA     EAST FELICIANA                  06              30:49      -091:07     150   
+164592  99999   JAMESTOWN                      UNITED STATES                    LA     BIENVILLE                       01              32:20      -093:12     190   
+164624  99999   JEAN LAFITTE NAT PARK          UNITED STATES                    LA     JEFFERSON                       09              29:46      -090:06     3     
+164674  99999   JEANERETTE 5 NW                UNITED STATES                    LA     IBERIA                          08              29:57      -091:42     20    
+164696  99999   JENA 4 WSW                     UNITED STATES                    LA     LA SALLE                        05              31:39      -092:12     210   
+164700  99999   JENNINGS                       UNITED STATES                    LA     JEFFERSON DAVIS                 07              30:12      -092:39     25    
+164732  99999   JONESBORO 4 ENE                UNITED STATES                    LA     JACKSON                         02              32:15      -092:39     330   
+164735  99999   JONESBORO #2                   UNITED STATES                    LA     JACKSON                         02              32:13      -092:42     249   
+164739  99999   JONESVILLE LOCKS               UNITED STATES                    LA     CATAHOULA                       05              31:28      -091:51     70    
+164775  99999   KAPLAN                         UNITED STATES                    LA     VERMILION                       07              29:59      -092:16     15    
+164816  99999   KEITHVILLE                     UNITED STATES                    LA     CADDO                           01              32:21      -093:51     200   
+164859  99999   KENTWOOD                       UNITED STATES                    LA     TANGIPAHOA                      06              30:56      -090:30     230   
+164884  99999   KINDER 3 W                     UNITED STATES                    LA     ALLEN                           07              30:30      -092:54     50    
+164931  99999   KORAN                          UNITED STATES                    LA     BOSSIER                         01              32:25      -093:28     175   
+164945  99999   KROTZ SPRINGS                  UNITED STATES                    LA     ST. LANDRY                      05              30:32      -091:45     0     
+165021  99999   LAFAYETTE                      UNITED STATES                    LA     LAFAYETTE                       08              30:13      -092:03     25    
+165026  13976   LAFAYETTE RGNL AP              UNITED STATES                    LA     LAFAYETTE                       08              30:12      -091:59     38    
+165065  99999   LAKE ARTHUR 10 SW              UNITED STATES                    LA     CAMERON                         07              30:00      -092:46     10    
+165072  99999   LAKE CHARLES 7 NW              UNITED STATES                    LA     CALCASIEU                       07              30:18      -093:16     10    
+165074  99999   LAKE CHARLES 2 N               UNITED STATES                    LA     CALCASIEU                       07              30:15      -093:13     5     
+165076  99999   LAKE CHARLES PORT              UNITED STATES                    LA     CALCASIEU                       07              30:12      -093:14     5     
+165078  03937   LAKE CHARLES RGNL AP           UNITED STATES                    LA     CALCASIEU                       07              30:07      -093:13     9     
+165090  99999   LAKE PROVIDENCE                UNITED STATES                    LA     EAST CARROLL                    03              32:48      -091:10     100   
+165146  99999   LARTO LAKE                     UNITED STATES                    LA     CATAHOULA                       05              31:22      -091:54     50    
+165266  99999   LEESVILLE                      UNITED STATES                    LA     VERNON                          04              31:08      -093:14     28    
+165283  99999   LEESVILLE 5 ENE                UNITED STATES                    LA     VERNON                          04              31:09      -093:11     280   
+165287  99999   LEESVILLE 6 SSW                UNITED STATES                    LA     VERNON                          04              31:03      -093:16     260   
+165296  99999   LELAND BOWMAN LOCK             UNITED STATES                    LA     VERMILION                       07              29:47      -092:12     40    
+165430  99999   LIVERPOOL  6W                  UNITED STATES                    LA     ST. HELENA                      06              30:56      -090:34     250   
+165438  99999   LIVINGSTON                     UNITED STATES                    LA     LIVINGSTON                      06              30:31      -090:45     43    
+165522  99999   LOGANSPORT                     UNITED STATES                    LA     DE SOTO                         01              31:58      -094:00     190   
+165527  99999   LOGANSPORT 4 ENE               UNITED STATES                    LA     DE SOTO                         01              31:59      -093:57     210   
+165584  99999   LONGVILLE                      UNITED STATES                    LA     BEAUREGARD                      07              30:36      -093:14     115   
+165610  99999   LOUISIANA NATURE CTR           UNITED STATES                    LA     ORLEANS                         09              30:01      -089:57     -5    
+165620  99999   LSU BEN-HUR FARM               UNITED STATES                    LA     EAST BATON ROUGE                06              30:21      -091:10     21    
+165624  99999   LSU CITRUS RSCH STN            UNITED STATES                    LA     PLAQUEMINES                     09              29:34      -089:49     4     
+165630  99999   LSU DEAN LEE RSCH STN          UNITED STATES                    LA     RAPIDES                         05              31:10      -092:24     70    
+165783  99999   LUTCHER                        UNITED STATES                    LA     ST. JAMES                       09              30:02      -090:41     20    
+165852  99999   MAMOU 4 S                      UNITED STATES                    LA     EVANGELINE                      05              30:34      -092:26     59    
+165874  99999   MANSFIELD                      UNITED STATES                    LA     DE SOTO                         01              32:02      -093:42     392   
+165892  99999   MANY                           UNITED STATES                    LA     SABINE                          04              31:34      -093:28     255   
+165896  99999   MANY 9 WSW                     UNITED STATES                    LA     SABINE                          04              31:30      -093:37     286   
+165908  99999   MARION 7 SE                    UNITED STATES                    LA     UNION                           02              32:49      -092:10     151   
+165920  99999   MARKSVILLE                     UNITED STATES                    LA     AVOYELLES                       05              31:07      -092:03     85    
+165926  99999   MARRERO 9 SSW                  UNITED STATES                    LA     JEFFERSON                       09              29:47      -090:06     3     
+165935  99999   MARTIN FIRE TWR                UNITED STATES                    LA     RED RIVER                       01              32:04      -093:13     230   
+166117  99999   MELVILLE                       UNITED STATES                    LA     ST. LANDRY                      05              30:41      -091:44     30    
+166142  99999   MERMENTAU                      UNITED STATES                    LA     ACADIA                          07              30:11      -092:35     16    
+166144  99999   MERMENTAU 1 NNE                UNITED STATES                    LA     ACADIA                          07              30:12      -092:34     20    
+166157  99999   METAIRIE                       UNITED STATES                    LA     JEFFERSON                       09              29:59      -090:08     0     
+166244  99999   MINDEN                         UNITED STATES                    LA     WEBSTER                         01              32:36      -093:17     185   
+166271  99999   MITTIE 2 SE                    UNITED STATES                    LA     ALLEN                           07              30:42      -092:53     120   
+166303  13942   MONROE RGNL AP                 UNITED STATES                    LA     OUACHITA                        02              32:30      -092:02     79    
+166314  99999   MONROE ULM                     UNITED STATES                    LA     OUACHITA                        02              32:32      -092:04     70    
+166364  99999   MOORINGSPORT 1 N               UNITED STATES                    LA     CADDO                           01              32:42      -093:57     200   
+166394  99999   MORGAN CITY                    UNITED STATES                    LA     ST. MARY                        08              29:41      -091:10     5     
+166431  99999   MOSS BLUFF                     UNITED STATES                    LA     CALCASIEU                       07              30:17      -093:12     19    
+166434  99999   MOSS BLUFF 2 NNW               UNITED STATES                    LA     CALCASIEU                       07              30:20      -093:12     25    
+166466  99999   MOUNT HERMON 2W                UNITED STATES                    LA     WASHINGTON                      06              30:57      -090:18     320   
+166561  99999   NAPOLEONVILLE                  UNITED STATES                    LA     ASSUMPTION                      08              29:56      -091:00     25    
+166582  99999   NATCHITOCHES                   UNITED STATES                    LA     NATCHITOCHES                    04              31:46      -093:05     130   
+166584  99999   NATCHITOCHES #2                UNITED STATES                    LA     NATCHITOCHES                    04              31:48      -093:05     141   
+166657  99999   NEW IBERIA ACADIANA AP         UNITED STATES                    LA     IBERIA                          08              30:02      -091:53     24    
+166660  12916   NEW ORLEANS INTL AP            UNITED STATES                    LA     JEFFERSON                       09              29:59      -090:15     4     
+166664  12930   NEW ORLEANS AUDUBON            UNITED STATES                    LA     ORLEANS                         09              29:55      -090:07     20    
+166664  99999   NEW ORLEANS ADBON WSFO         UNITED STATES                    LA     ORLEANS                         09              29:55      -090:08     10    
+166666  99999   NEW ORLEANS ALGIERS            UNITED STATES                    LA     ORLEANS                         09              29:57      -090:03     2     
+166667  53917   NEW ORLEANS LAKEFRONT AP       UNITED STATES                    LA     ORLEANS                         09              30:02      -090:01     9     
+166668  99999   NEW ORLEANS EASTOVER           UNITED STATES                    LA     ORLEANS                         09              30:02      -089:57     -5    
+166669  99999   NEW ORLEANS WTP                UNITED STATES                    LA     ORLEANS                         09              29:57      -090:08     20    
+166670  99999   NEW ORLEANS S&WB               UNITED STATES                    LA     ORLEANS                         09              29:57      -090:03     5     
+166672  99999   NEW ORLEANS D P S 5            UNITED STATES                    LA     ORLEANS                         09              29:59      -090:01     10    
+166675  99999   NEW ORLEANS D P S 3            UNITED STATES                    LA     ORLEANS                         09              29:59      -090:04     10    
+166679  99999   NEW ORLEANS DPS #6             UNITED STATES                    LA     ORLEANS                         09              29:59      -090:07     0     
+166686  99999   NEW ROADS 5 NE                 UNITED STATES                    LA     POINTE COUPEE                   05              30:43      -091:22     45    
+166808  99999   NORWOOD                        UNITED STATES                    LA     EAST FELICIANA                  06              30:58      -091:06     102   
+166836  99999   OAKDALE                        UNITED STATES                    LA     ALLEN                           07              30:49      -092:40     110   
+166866  99999   OAK GROVE                      UNITED STATES                    LA     WEST CARROLL                    03              32:51      -091:22     129   
+166868  99999   OAK RIDGE                      UNITED STATES                    LA     MOREHOUSE                       03              32:37      -091:46     82    
+166911  99999   OAKNOLIA 2N                    UNITED STATES                    LA     EAST FELICIANA                  06              30:45      -090:59     150   
+166938  99999   OBERLIN FIRE TWR               UNITED STATES                    LA     ALLEN                           07              30:36      -092:46     65    
+166962  99999   OLD RIVER LOCK                 UNITED STATES                    LA     POINTE COUPEE                   05              31:00      -091:40     70    
+166968  99999   OLD TOWN BAY                   UNITED STATES                    LA     CALCASIEU                       07              30:17      -093:08     12    
+166978  99999   OLLA                           UNITED STATES                    LA     LA SALLE                        05              31:53      -092:14     155   
+166995  99999   OPELOUSAS                      UNITED STATES                    LA     ST. LANDRY                      05              30:30      -092:05     56    
+167096  99999   PARADIS 7 S                    UNITED STATES                    LA     ST. CHARLES                     09              29:47      -090:25     5     
+167161  99999   PEARL RIVER LOCK 1             UNITED STATES                    LA     ST. TAMMANY                     06              30:27      -089:47     30    
+167304  99999   PINE GROVE FIRE TWR            UNITED STATES                    LA     ST. HELENA                      06              30:42      -090:45     190   
+167312  99999   PIONEER 6 W                    UNITED STATES                    LA     WEST CARROLL                    03              32:45      -091:32     88    
+167344  99999   PLAIN DEALING 4 W              UNITED STATES                    LA     BOSSIER                         01              32:54      -093:47     290   
+167366  99999   PLAQUEMINE 2 N                 UNITED STATES                    LA     IBERVILLE                       08              30:19      -091:15     20    
+167368  99999   PLAQUEMINES EXP STN            UNITED STATES                    LA     PLAQUEMINES                     09              29:35      -089:50     4     
+167425  99999   PONCHATOULA 4 SE               UNITED STATES                    LA     TANGIPAHOA                      06              30:24      -090:22     18    
+167448  99999   PORT ALLEN                     UNITED STATES                    LA     WEST BATON ROUGE                05              30:27      -091:13     15    
+167485  99999   PORT VINCENT                   UNITED STATES                    LA     LIVINGSTON                      06              30:20      -090:51     15    
+167590  99999   QUITMAN 2                      UNITED STATES                    LA     JACKSON                         02              32:21      -092:42     203   
+167651  99999   RAGLEY 1W                      UNITED STATES                    LA     BEAUREGARD                      07              30:30      -093:13     85    
+167691  99999   RAYVILLE                       UNITED STATES                    LA     RICHLAND                        03              32:29      -091:44     89    
+167729  99999   RED RIVER LOCK #1              UNITED STATES                    LA     CATAHOULA                       05              31:15      -091:57     70    
+167732  99999   RED RIVER LOCK #2              UNITED STATES                    LA     RAPIDES                         05              31:11      -092:17     75    
+167738  99999   RED RIVER RSCH STN             UNITED STATES                    LA     BOSSIER                         01              32:25      -093:38     155   
+167767  99999   RESERVE                        UNITED STATES                    LA     ST. JOHN THE BAPTIST            09              30:03      -090:34     15    
+167924  99999   ROBSON                         UNITED STATES                    LA     CADDO                           01              32:21      -093:38     160   
+167932  99999   ROCKEFELLER WL REFUGE          UNITED STATES                    LA     CAMERON                         07              29:43      -092:49     4     
+167950  99999   RODESSA                        UNITED STATES                    LA     CADDO                           01              32:58      -094:00     200   
+168046  99999   ROSEPINE RSCH STN              UNITED STATES                    LA     VERNON                          04              30:56      -093:16     238   
+168065  99999   RUSTON                         UNITED STATES                    LA     LINCOLN                         02              32:32      -092:36     302   
+168067  99999   RUSTON LA TECH                 UNITED STATES                    LA     LINCOLN                         02              32:32      -092:41     260   
+168094  99999   SAILES FIRE TWR                UNITED STATES                    LA     BIENVILLE                       02              32:21      -093:08     360   
+168108  99999   ST BERNARD                     UNITED STATES                    LA     ST. BERNARD                     09              29:52      -089:49     5     
+168136  99999   ST FRANCISVILLE                UNITED STATES                    LA     WEST FELICIANA                  06              30:46      -091:22     115   
+168139  99999   ST GABRIEL                     UNITED STATES                    LA     IBERVILLE                       08              30:16      -091:05     30    
+168163  99999   ST JOSEPH 3 N                  UNITED STATES                    LA     TENSAS                          03              31:56      -091:14     78    
+168181  99999   ST MARTINVILLE 3 SW            UNITED STATES                    LA     ST. MARTIN                      08              30:05      -091:52     30    
+168230  99999   SAMSTOWN                       UNITED STATES                    LA     IBERVILLE                       08              30:07      -091:09     15    
+168405  99999   SHERIDAN FIRE TWR              UNITED STATES                    LA     WASHINGTON                      06              30:51      -089:59     330   
+168431  99999   SHREVEPORT CARGIL PARK         UNITED STATES                    LA     CADDO                           01              32:25      -093:49     249   
+168436  99999   SHREVEPORT DWTN                UNITED STATES                    LA     CADDO                           01              32:30      -093:44     180   
+168438  53905   SHREVEPORT DWTN AP             UNITED STATES                    LA     CADDO                           01              32:32      -093:44     179   
+168438  99999   SHREVEPORT DWTN AP             UNITED STATES                    LA     CADDO                           01              32:32      -093:44     179   
+168440  13957   SHREVEPORT RGNL AP             UNITED STATES                    LA     CADDO                           01              32:26      -093:49     254   
+168444  99999   SHREVEPORT STHRN HILLS         UNITED STATES                    LA     CADDO                           01              32:23      -093:46     200   
+168448  99999   SHREVEPORT WFO                 UNITED STATES                    LA     CADDO                           01              32:27      -093:50     274   
+168507  99999   SIMMESPORT                     UNITED STATES                    LA     AVOYELLES                       05              30:59      -091:49     49    
+168524  99999   SLAGLE                         UNITED STATES                    LA     VERNON                          04              31:12      -093:08     302   
+168539  99999   SLIDELL                        UNITED STATES                    LA     ST. TAMMANY                     06              30:15      -089:46     10    
+168543  53865   SLIDELL AP                     UNITED STATES                    LA     ST. TAMMANY                     06              30:20      -089:49     27    
+168586  99999   SONDHEIMER                     UNITED STATES                    LA     EAST CARROLL                    03              32:33      -091:10     240   
+168669  99999   SPEARSVILLE FIRE TWR           UNITED STATES                    LA     UNION                           02              32:54      -092:34     200   
+168683  99999   SPRINGHILL                     UNITED STATES                    LA     WEBSTER                         01              32:59      -093:26     240   
+168715  99999   SPRINGVILLE FIRE TWR           UNITED STATES                    LA     LIVINGSTON                      06              30:26      -090:39     30    
+168785  99999   STERLINGTON                    UNITED STATES                    LA     OUACHITA                        02              32:42      -092:04     85    
+168788  99999   STERLINGTON #2                 UNITED STATES                    LA     OUACHITA                        02              32:41      -092:03     85    
+168795  99999   STEVENSON FIRE TWR             UNITED STATES                    LA     MOREHOUSE                       03              32:54      -091:58     148   
+168828  99999   SUGARTOWN                      UNITED STATES                    LA     BEAUREGARD                      07              30:51      -093:01     170   
+168831  99999   SULPHUR                        UNITED STATES                    LA     CALCASIEU                       07              30:14      -093:20     10    
+168861  99999   SUN                            UNITED STATES                    LA     ST. TAMMANY                     06              30:38      -089:55     75    
+168906  99999   TALISHEEK                      UNITED STATES                    LA     ST. TAMMANY                     06              30:31      -089:52     60    
+168923  99999   TALLULAH                       UNITED STATES                    LA     MADISON                         03              32:23      -091:11     85    
+168926  03996   TALLULAH VICKSBURG AP          UNITED STATES                    LA     MADISON                         03              32:21      -091:01     86    
+168941  99999   TERRYTOWN 3S                   UNITED STATES                    LA     JEFFERSON                       09              29:54      -090:02     10    
+168945  99999   TICKFAW 3 ENE                  UNITED STATES                    LA     TANGIPAHOA                      06              30:35      -090:26     53    
+169013  99999   THIBODAUX 3 ESE                UNITED STATES                    LA     LAFOURCHE                       09              29:46      -090:46     15    
+169027  99999   THIBODAUX #2                   UNITED STATES                    LA     LAFOURCHE                       09              29:48      -090:49     20    
+169074  99999   TOLEDO BEND LAKE               UNITED STATES                    LA     SABINE                          04              31:12      -093:34     181   
+169303  99999   VERDA FIRE TWR                 UNITED STATES                    LA     GRANT                           05              31:40      -092:44     220   
+169319  99999   VERMILION LOCK                 UNITED STATES                    LA     VERMILION                       07              29:47      -092:12     10    
+169357  99999   VIDALIA #2                     UNITED STATES                    LA     CONCORDIA                       05              31:33      -091:26     60    
+169369  99999   VILLE PLATTE                   UNITED STATES                    LA     EVANGELINE                      05              30:41      -092:15     70    
+169375  99999   VINTON                         UNITED STATES                    LA     CALCASIEU                       07              30:11      -093:34     12    
+169376  99999   VINTON 5W                      UNITED STATES                    LA     CALCASIEU                       07              30:11      -093:40     11    
+169392  99999   VIVIAN                         UNITED STATES                    LA     CADDO                           01              32:54      -093:58     220   
+169480  99999   WATSON 3 ESE                   UNITED STATES                    LA     LIVINGSTON                      06              30:33      -090:55     60    
+169610  99999   WESTDALE 3 SW                  UNITED STATES                    LA     RED RIVER                       01              32:10      -093:30     -99999
+169631  99999   WEST MONROE                    UNITED STATES                    LA     OUACHITA                        02              32:27      -092:08     75    
+169803  99999   WINNFIELD 3 N                  UNITED STATES                    LA     WINN                            02              31:57      -092:39     160   
+169804  99999   WINNSBORO 2 SE                 UNITED STATES                    LA     FRANKLIN                        03              32:08      -091:42     74    
+169806  99999   WINNSBORO 5 SSE                UNITED STATES                    LA     FRANKLIN                        03              32:05      -091:42     80    
+169809  99999   WINONA FIRE TWR                UNITED STATES                    LA     WINN                            02              32:01      -092:39     220   
+169865  99999   WOODWORTH 2 SE                 UNITED STATES                    LA     RAPIDES                         05              31:07      -092:28     116   
+169930  99999   ZACHARY                        UNITED STATES                    LA     EAST BATON ROUGE                06              30:40      -091:07     120   
+169980  99999   ZWOLLE 2 NW                    UNITED STATES                    LA     SABINE                          04              31:39      -093:39     209   
+999999  12930   NEW ORLEANS WBO CITY           UNITED STATES                    LA     ORLEANS                         09              29:57      -090:04     9     
+999999  12958   NEW ORLEANS ALVIN CALLENDER F  UNITED STATES                    LA     JEFFERSON                       09              29:49      -090:01     -99999
+999999  13935   ALEXANDRIA ESLER RGNL AP       UNITED STATES                    LA     RAPIDES                         05              31:23      -092:17     -99999
+999999  13942   MONROE RGNL AP                 UNITED STATES                    LA     OUACHITA                        02              32:30      -092:02     79    
+999999  53915   NEW IBERIA ACADIANA RGNL AP    UNITED STATES                    LA     IBERIA                          99              30:02      -091:53     24    
+999999  93915   ALEXANDRIA INTL AP             UNITED STATES                    LA     RAPIDES                         99              31:20      -092:33     84    
+160007  99999   ABBEVILLE                      UNITED STATES                    LA     VERMILION                       07              29:58      -092:07     10    
+160016  99999   ABITA SPRINGS 1 SW             UNITED STATES                    LA     ST. TAMMANY                     06              30:28      -090:02     25    
+160021  99999   ABITA SPRING FIRE TWR          UNITED STATES                    LA     ST. TAMMANY                     06              30:26      -090:03     30    
+160028  99999   ACME                           UNITED STATES                    LA     CONCORDIA                       05              31:17      -091:49     49    
+160098  13934   ENGLAND AFB                    UNITED STATES                    LA     RAPIDES                         05              31:19      -092:33     86    
+160098  99999   ALEXANDRIA                     UNITED STATES                    LA     RAPIDES                         05              31:19      -092:27     87    
+160101  99999   ALEXANDRIA #2                  UNITED STATES                    LA     RAPIDES                         05              31:19      -092:27     44    
+160104  13935   ALEXANDRIA ESLER FLD           UNITED STATES                    LA     RAPIDES                         05              31:23      -092:17     118   
+160205  99999   AMITE                          UNITED STATES                    LA     TANGIPAHOA                      06              30:42      -090:31     170   
+160232  99999   ANDREW                         UNITED STATES                    LA     VERMILION                       07              30:05      -092:15     20    
+160244  99999   ANGOLA                         UNITED STATES                    LA     WEST FELICIANA                  06              30:57      -091:35     39    
+160253  99999   ANTIOCH FIRE TWR               UNITED STATES                    LA     CLAIBORNE                       02              32:53      -093:00     348   
+160277  99999   ARCADIA                        UNITED STATES                    LA     BIENVILLE                       02              32:33      -092:55     400   
+160349  99999   ASHLAND                        UNITED STATES                    LA     NATCHITOCHES                    04              32:09      -093:07     240   
+160367  99999   ATCHAFALAYA                    UNITED STATES                    LA     ST. MARTIN                      08              30:21      -091:43     30    
+160422  99999   BAINS                          UNITED STATES                    LA     WEST FELICIANA                  99              30:49      -091:23     240   
+160526  99999   BASILE 2 W                     UNITED STATES                    LA     JEFFERSON DAVIS                 07              30:29      -092:38     4     
+160537  99999   BASTROP                        UNITED STATES                    LA     MOREHOUSE                       03              32:46      -092:00     150   
+160540  99999   BATCHELOR                      UNITED STATES                    LA     POINTE COUPEE                   05              30:49      -091:39     45    
+160549  13970   BATON ROUGE RYAN AP            UNITED STATES                    LA     EAST BATON ROUGE                06              30:32      -091:08     64    
+160553  99999   BATON ROUGE LA UNIV            UNITED STATES                    LA     EAST BATON ROUGE                02              30:26      -091:10     49    
+160555  99999   BATON ROUGE                    UNITED STATES                    LA     WEST BATON ROUGE                06              30:25      -091:12     20    
+160558  99999   BATON ROUGE SHERWOOD           UNITED STATES                    LA     EAST BATON ROUGE                06              30:26      -091:02     55    
+160565  99999   BAYOU SORREL LOCK              UNITED STATES                    LA     IBERVILLE                       08              30:07      -091:19     15    
+160617  99999   BEAVER FIRE TWR                UNITED STATES                    LA     EVANGELINE                      05              30:47      -092:29     105   
+160629  99999   BEEKMAN 3 NE                   UNITED STATES                    LA     MOREHOUSE                       03              32:57      -091:51     112   
+160639  99999   BELAH FIRE TWR                 UNITED STATES                    LA     LA SALLE                        05              31:38      -092:11     197   
+160761  99999   BERNICE 2 S                    UNITED STATES                    LA     UNION                           02              32:47      -092:40     178   
+160786  99999   BETHANY                        UNITED STATES                    LA     CADDO                           01              32:23      -094:03     370   
+160800  99999   BIENVILLE 3 NE                 UNITED STATES                    LA     BIENVILLE                       02              32:22      -092:56     307   
+160920  99999   BODCAU FIRE TWR                UNITED STATES                    LA     BOSSIER                         01              32:42      -093:31     259   
+160945  99999   BOGALUSA                       UNITED STATES                    LA     WASHINGTON                      06              30:46      -089:51     100   
+160947  99999   BOGALUSA 2 NE                  UNITED STATES                    LA     WASHINGTON                      06              30:48      -089:50     79    
+160989  99999   BONITA 3 S                     UNITED STATES                    LA     MOREHOUSE                       03              32:53      -091:40     -99999
+161152  99999   BOOK                           UNITED STATES                    LA     CATAHOULA                       05              31:20      -091:52     49    
+161157  12884   BOOTHVILLE ASOS                UNITED STATES                    LA     PLAQUEMINES                     09              29:19      -089:24     3     
+161200  99999   BOSSIER CITY 2                 UNITED STATES                    LA     BOSSIER                         01              32:31      -093:42     163   
+161232  99999   BOYCE 3 WNW                    UNITED STATES                    LA     RAPIDES                         05              31:23      -092:42     110   
+161287  99999   BUNKIE                         UNITED STATES                    LA     AVOYELLES                       05              30:57      -092:10     80    
+161292  99999   BURAS                          UNITED STATES                    LA     PLAQUEMINES                     09              29:20      -089:30     5     
+161331  99999   BURR FERRY                     UNITED STATES                    LA     VERNON                          99              31:04      -093:30     -99999
+161335  12863   BURRWOOD WB                    UNITED STATES                    LA     PLAQUEMINES                     09              28:58      -089:23     13    
+161365  99999   BUTTE LA ROSE                  UNITED STATES                    LA     ST. MARTIN                      08              30:16      -091:41     5     
+161411  99999   CALHOUN RSCH STN               UNITED STATES                    LA     OUACHITA                        02              32:30      -092:20     180   
+161425  99999   CAMERON                        UNITED STATES                    LA     CAMERON                         02              29:45      -093:20     10    
+161431  99999   CAMP BEAUREGARD                UNITED STATES                    LA     RAPIDES                         99              31:22      -092:24     157   
+161443  99999   CAMP LIVINGSTON                UNITED STATES                    LA     GRANT                           99              31:27      -092:22     230   
+161446  99999   CAMP POLK                      UNITED STATES                    LA     VERNON                          04              31:04      -093:12     351   
+161560  99999   CARROLLTON                     UNITED STATES                    LA     ORLEANS                         99              29:56      -090:07     7     
+161565  99999   CARVILLE 2 SW                  UNITED STATES                    LA     IBERVILLE                       08              30:11      -091:07     25    
+161601  99999   CATFISH POINT                  UNITED STATES                    LA     CAMERON                         07              29:52      -092:51     10    
+161677  99999   CHANDELEUR LIGHTHOUSE          UNITED STATES                    LA     ST. BERNARD                     02              30:03      -088:52     -99999
+161703  99999   CHATHAM                        UNITED STATES                    LA     JACKSON                         02              32:19      -092:27     180   
+161729  99999   CHENEYVILLE 1 NE               UNITED STATES                    LA     RAPIDES                         05              31:01      -092:17     59    
+161807  99999   CINCLARE                       UNITED STATES                    LA     WEST BATON ROUGE                05              30:24      -091:14     30    
+161891  99999   CLINTON FORESTRY HQ            UNITED STATES                    LA     EAST FELICIANA                  06              30:51      -091:00     250   
+161894  99999   CLINTON 2                      UNITED STATES                    LA     EAST FELICIANA                  02              30:53      -091:01     210   
+161899  99999   CLINTON 5 SE                   UNITED STATES                    LA     EAST FELICIANA                  06              30:49      -090:58     200   
+161929  99999   COCODRIE                       UNITED STATES                    LA     TERREBONNE                      09              29:16      -090:39     10    
+161941  99999   COLFAX                         UNITED STATES                    LA     GRANT                           05              31:31      -092:42     110   
+161969  99999   COLUMBIA 2 N                   UNITED STATES                    LA     CALDWELL                        01              32:08      -092:05     59    
+161979  99999   COLUMBIA LOCK                  UNITED STATES                    LA     CALDWELL                        02              32:10      -092:06     80    
+162023  99999   CONVERSE                       UNITED STATES                    LA     SABINE                          04              31:45      -093:42     220   
+162121  99999   COTTON VALLEY 5 NNW            UNITED STATES                    LA     WEBSTER                         01              32:53      -093:27     258   
+162140  99999   COUSHATTA 1 SE                 UNITED STATES                    LA     RED RIVER                       01              32:01      -093:20     151   
+162151  99999   COVINGTON 4 NNW                UNITED STATES                    LA     ST. TAMMANY                     06              30:31      -090:06     40    
+162165  99999   CRAVENS TWR                    UNITED STATES                    LA     VERNON                          04              31:00      -093:06     249   
+162212  99999   CROWLEY 2 NE                   UNITED STATES                    LA     ACADIA                          07              30:14      -092:20     25    
+162219  99999   CROWVILLE 1 N                  UNITED STATES                    LA     FRANKLIN                        03              32:15      -091:35     102   
+162235  99999   CURTIS 1 SSE                   UNITED STATES                    LA     BOSSIER                         01              32:25      -093:38     161   
+162271  99999   DALCOUR                        UNITED STATES                    LA     PLAQUEMINES                     99              29:49      -090:00     79    
+162285  99999   DANVILLE                       UNITED STATES                    LA     BIENVILLE                       01              32:15      -092:49     161   
+162287  99999   D ARBONNE FIRE DNGR TW         UNITED STATES                    LA     UNION                           02              32:41      -092:27     -99999
+162297  99999   DARNELL 2N                     UNITED STATES                    LA     WEST CARROLL                    01              32:42      -091:27     102   
+162330  99999   DELTA BREPON WLD RFG           UNITED STATES                    LA     PLAQUEMINES                     09              29:13      -089:16     10    
+162334  99999   DELTA FARMS                    UNITED STATES                    LA     LAFOURCHE                       99              29:36      -090:21     1     
+162350  99999   DENHAM SPRINGS                 UNITED STATES                    LA     LIVINGSTON                      06              30:28      -090:57     35    
+162361  99999   DE QUINCY                      UNITED STATES                    LA     CALCASIEU                       07              30:26      -093:28     81    
+162367  99999   DE RIDDER                      UNITED STATES                    LA     BEAUREGARD                      07              30:50      -093:17     190   
+162372  99999   DEAN                           UNITED STATES                    LA     UNION                           01              32:54      -092:08     79    
+162439  99999   DESOTO FIRE TWR                UNITED STATES                    LA     DE SOTO                         01              31:58      -093:34     259   
+162478  99999   DIAMOND 4 NW                   UNITED STATES                    LA     PLAQUEMINES                     09              29:35      -089:50     4     
+162525  99999   DODSON 6 ENE                   UNITED STATES                    LA     WINN                            01              32:06      -092:35     200   
+162534  99999   DONALDSONVILLE 4 SW            UNITED STATES                    LA     ASSUMPTION                      08              30:04      -091:01     30    
+162579  99999   DOYLINE                        UNITED STATES                    LA     WEBSTER                         99              32:34      -093:25     220   
+162672  99999   DULAC                          UNITED STATES                    LA     TERREBONNE                      99              29:23      -090:43     -99999
+162800  99999   ELIZABETH                      UNITED STATES                    LA     ALLEN                           07              30:51      -092:47     150   
+162884  99999   EMPIRE                         UNITED STATES                    LA     PLAQUEMINES                     09              29:24      -089:36     -99999
+162916  99999   ENON 7 WSW                     UNITED STATES                    LA     WASHINGTON                      06              30:42      -090:11     49    
+162954  99999   ESTHER                         UNITED STATES                    LA     VERMILION                       07              29:51      -092:14     -99999
+162971  99999   EPPS 6 WNW                     UNITED STATES                    LA     WEST CARROLL                    03              32:37      -091:34     99    
+162976  99999   ESLER FIELD                    UNITED STATES                    LA     RAPIDES                         99              31:23      -092:18     -99999
+162981  99999   EUNICE                         UNITED STATES                    LA     ST. LANDRY                      05              30:29      -092:25     50    
+163001  99999   EVANGELINE GRD STN             UNITED STATES                    LA     RAPIDES                         99              31:12      -092:36     -99999
+163009  99999   EVANS                          UNITED STATES                    LA     VERNON                          04              30:59      -093:30     -99999
+163079  99999   FARMERVILLE                    UNITED STATES                    LA     UNION                           02              32:46      -092:24     180   
+163087  99999   FARMERVILLE 6 E                UNITED STATES                    LA     UNION                           02              32:47      -092:17     161   
+163218  99999   FONTAINBLEAU SP                UNITED STATES                    LA     ST. TAMMANY                     06              30:21      -090:03     -99999
+163313  99999   FRANKLIN 3 NW                  UNITED STATES                    LA     ST. MARY                        08              29:49      -091:32     12    
+163321  99999   FRANKLINTON                    UNITED STATES                    LA     WASHINGTON                      06              30:50      -090:09     124   
+163322  99999   FRANKLINTON #2                 UNITED STATES                    LA     WASHINGTON                      06              30:50      -090:09     145   
+163324  99999   FRANKLINTON EXP STN            UNITED STATES                    LA     WASHINGTON                      06              30:47      -090:13     240   
+163326  99999   FRANKLINTON 6 NNW              UNITED STATES                    LA     WASHINGTON                      06              30:56      -090:11     200   
+163327  99999   FRANKLINTON 3 SW               UNITED STATES                    LA     WASHINGTON                      06              30:49      -090:10     145   
+163345  99999   FRENCH SETTLEMENT              UNITED STATES                    LA     LIVINGSTON                      06              30:18      -090:48     10    
+163433  99999   GALLIANO                       UNITED STATES                    LA     LAFOURCHE                       09              29:27      -090:18     5     
+163562  99999   GHEENS                         UNITED STATES                    LA     LAFOURCHE                       02              29:42      -090:28     10    
+163600  99999   GIBSLAND NEAR SCS #15          UNITED STATES                    LA     BIENVILLE                       99              32:32      -093:02     232   
+163639  99999   GLENMORA                       UNITED STATES                    LA     RAPIDES                         02              30:58      -092:35     141   
+163657  99999   GLOSTER 1 W                    UNITED STATES                    LA     DE SOTO                         01              32:12      -093:50     259   
+163681  99999   GOLDEN MEADOW                  UNITED STATES                    LA     LAFOURCHE                       09              29:23      -090:16     0     
+163695  99999   GONZALES                       UNITED STATES                    LA     ASCENSION                       09              30:12      -090:55     10    
+163741  99999   GORUM FIRE TWR                 UNITED STATES                    LA     NATCHITOCHES                    04              31:26      -092:52     307   
+163794  99999   GRAND CANE FIRE TWR            UNITED STATES                    LA     DE SOTO                         01              32:08      -093:48     270   
+163798  99999   GRAND CHENIER                  UNITED STATES                    LA     CAMERON                         07              29:46      -092:57     10    
+163800  99999   GRAND COTEAU                   UNITED STATES                    LA     ST. LANDRY                      05              30:25      -092:02     55    
+163804  99999   GRAND ECORE                    UNITED STATES                    LA     NATCHITOCHES                    04              31:48      -093:05     150   
+163807  99999   GRAND ISLE                     UNITED STATES                    LA     JEFFERSON                       09              29:14      -089:59     2     
+163864  99999   GREENSBURG                     UNITED STATES                    LA     ST. HELENA                      06              30:50      -090:40     230   
+163867  99999   GREENWELL SPRINGS              UNITED STATES                    LA     EAST BATON ROUGE                06              30:33      -090:59     60    
+163877  99999   GREENWOOD FIRE TWR             UNITED STATES                    LA     CADDO                           01              32:25      -094:00     350   
+163930  99999   GUEYDAN 5 S                    UNITED STATES                    LA     VERMILION                       07              29:57      -092:31     10    
+163944  99999   GUM SPRINGS FIRE TWR           UNITED STATES                    LA     WINN                            02              31:54      -092:47     220   
+163979  99999   HACKBERRY 8 SSW                UNITED STATES                    LA     CAMERON                         07              29:53      -093:24     6     
+164034  99999   HAMMOND                        UNITED STATES                    LA     TANGIPAHOA                      06              30:29      -090:28     90    
+164050  99999   HANNA 4 SSE                    UNITED STATES                    LA     RED RIVER                       01              31:54      -093:19     118   
+164088  99999   HARMON                         UNITED STATES                    LA     RED RIVER                       01              32:04      -093:26     141   
+164100  99999   HARRISONBURG LOCK 2            UNITED STATES                    LA     CATAHOULA                       05              31:47      -091:49     59    
+164131  99999   HAYNESVILLE                    UNITED STATES                    LA     CLAIBORNE                       02              32:58      -093:07     303   
+164164  99999   HECKER                         UNITED STATES                    LA     CALCASIEU                       07              30:21      -093:05     20    
+164186  99999   HENDERSON 2 W                  UNITED STATES                    LA     ST. MARTIN                      08              30:19      -091:49     20    
+164200  99999   HESSMER                        UNITED STATES                    LA     AVOYELLES                       05              31:04      -092:07     79    
+164209  99999   HICKORY GROVE                  UNITED STATES                    LA     RAPIDES                         05              31:26      -092:14     69    
+164260  99999   HINESTON 4 NNE                 UNITED STATES                    LA     RAPIDES                         05              31:11      -092:45     240   
+164288  99999   HODGES GARDENS                 UNITED STATES                    LA     SABINE                          04              31:22      -093:23     420   
+164315  99999   HOLLY RIDGE                    UNITED STATES                    LA     RICHLAND                        03              32:28      -091:37     79    
+164316  99999   HOLLEY SPRINGS                 UNITED STATES                    LA     RED RIVER                       01              32:07      -093:14     240   
+164320  99999   HOLLY RIDGE 10 N               UNITED STATES                    LA     RICHLAND                        03              32:37      -091:38     89    
+164355  99999   HOMER 1N                       UNITED STATES                    LA     CLAIBORNE                       02              32:48      -093:03     215   
+164381  99999   HOPEDALE                       UNITED STATES                    LA     ST. BERNARD                     09              29:49      -089:39     3     
+164384  99999   HORNBECK HODGES EXP A          UNITED STATES                    LA     SABINE                          04              31:23      -093:24     361   
+164398  99999   HOSSTON                        UNITED STATES                    LA     CADDO                           01              32:27      -093:50     246   
+164407  99999   HOUMA                          UNITED STATES                    LA     TERREBONNE                      09              29:35      -090:43     15    
+164410  99999   HOUMA 2                        UNITED STATES                    LA     TERREBONNE                      02              29:35      -090:44     10    
+164453  99999   HUNTER                         UNITED STATES                    LA     DE SOTO                         01              31:59      -093:50     269   
+164510  99999   INDIAN LOOKOUT                 UNITED STATES                    LA     GRANT                           99              31:42      -092:30     240   
+164535  99999   IOWA NEAR SCS                  UNITED STATES                    LA     CALCASIEU                       99              32:13      -093:02     25    
+164590  99999   JAMESTOWN NEAR SCS 16          UNITED STATES                    LA     BIENVILLE                       99              32:21      -093:09     -99999
+164674  99999   JEANERETTE 5 NW                UNITED STATES                    LA     IBERIA                          08              29:57      -091:42     20    
+164693  99999   JENA 2E                        UNITED STATES                    LA     LA SALLE                        01              31:41      -092:05     151   
+164700  99999   JENNINGS                       UNITED STATES                    LA     JEFFERSON DAVIS                 07              30:12      -092:39     25    
+164730  99999   JONES                          UNITED STATES                    LA     MOREHOUSE                       01              32:58      -091:39     102   
+164732  99999   JONESBORO 4 ENE                UNITED STATES                    LA     JACKSON                         02              32:15      -092:39     330   
+164734  99999   JONESVILLE 4 N                 UNITED STATES                    LA     CATAHOULA                       05              31:41      -091:50     69    
+164739  99999   JONESVILLE LOCKS               UNITED STATES                    LA     CATAHOULA                       05              31:28      -091:51     70    
+164785  99999   KAPLIN 8 S                     UNITED STATES                    LA     VERMILION                       07              29:53      -092:16     69    
+164800  99999   KEATCHIE                       UNITED STATES                    LA     DE SOTO                         99              32:11      -093:54     -99999
+164816  99999   KEITHVILLE                     UNITED STATES                    LA     CADDO                           01              32:21      -093:51     200   
+164859  99999   KENTWOOD                       UNITED STATES                    LA     TANGIPAHOA                      06              30:56      -090:30     230   
+164884  99999   KINDER 3 W                     UNITED STATES                    LA     ALLEN                           07              30:30      -092:54     50    
+164905  99999   KISATCHIE                      UNITED STATES                    LA     NATCHITOCHES                    99              31:28      -093:11     300   
+164931  99999   KORAN                          UNITED STATES                    LA     BOSSIER                         01              32:25      -093:28     175   
+165008  99999   LACOMBE 2 SSW                  UNITED STATES                    LA     ST. TAMMANY                     06              30:17      -089:57     -99999
+165026  13976   LAFAYETTE RGNL AP              UNITED STATES                    LA     LAFAYETTE                       08              30:12      -091:59     38    
+165065  99999   LAKE ARTHUR 10 SW              UNITED STATES                    LA     CAMERON                         07              30:00      -092:46     10    
+165074  99999   LAKE CHARLES 2 N               UNITED STATES                    LA     CALCASIEU                       07              30:15      -093:13     5     
+165075  99999   LAKE CHARLES                   UNITED STATES                    LA     CALCASIEU                       07              30:13      -093:13     -99999
+165076  99999   LAKE CHARLES PORT              UNITED STATES                    LA     CALCASIEU                       07              30:12      -093:14     5     
+165077  13941   LAKE CHARLES WB AP             UNITED STATES                    LA     CALCASIEU                       07              30:13      -093:09     16    
+165078  03937   LAKE CHARLES RGNL AP           UNITED STATES                    LA     CALCASIEU                       07              30:07      -093:13     9     
+165081  99999   LAKE END                       UNITED STATES                    LA     RED RIVER                       01              31:55      -093:18     131   
+165090  99999   LAKE PROVIDENCE                UNITED STATES                    LA     EAST CARROLL                    03              32:48      -091:10     100   
+165266  99999   LEESVILLE                      UNITED STATES                    LA     VERNON                          04              31:08      -093:14     28    
+165335  99999   LETTSWORTH                     UNITED STATES                    LA     POINTE COUPEE                   02              30:58      -091:43     30    
+165419  99999   LITROE                         UNITED STATES                    LA     UNION                           99              32:59      -092:13     112   
+165438  99999   LIVINGSTON                     UNITED STATES                    LA     LIVINGSTON                      06              30:31      -090:45     43    
+165522  99999   LOGANSPORT                     UNITED STATES                    LA     DE SOTO                         01              31:58      -094:00     190   
+165527  99999   LOGANSPORT 4 ENE               UNITED STATES                    LA     DE SOTO                         01              31:59      -093:57     210   
+165584  99999   LONGVILLE                      UNITED STATES                    LA     BEAUREGARD                      07              30:36      -093:14     115   
+165596  99999   LONGWOOD FIRE TWR              UNITED STATES                    LA     CADDO                           01              32:38      -093:58     -99999
+165620  99999   LSU BEN-HUR FARM               UNITED STATES                    LA     EAST BATON ROUGE                06              30:21      -091:10     21    
+165630  99999   LSU DEAN LEE RSCH STN          UNITED STATES                    LA     RAPIDES                         05              31:10      -092:24     70    
+165713  99999   LUNA FIRE TWR                  UNITED STATES                    LA     OUACHITA                        02              32:22      -092:13     -99999
+165852  99999   MAMOU 4 S                      UNITED STATES                    LA     EVANGELINE                      05              30:34      -092:26     59    
+165874  99999   MANSFIELD                      UNITED STATES                    LA     DE SOTO                         01              32:02      -093:42     392   
+165890  99999   MANY                           UNITED STATES                    LA     SABINE                          01              31:34      -093:29     230   
+165892  99999   MANY                           UNITED STATES                    LA     SABINE                          04              31:34      -093:28     255   
+165908  99999   MARION 7 SE                    UNITED STATES                    LA     UNION                           02              32:49      -092:10     151   
+165920  99999   MARKSVILLE                     UNITED STATES                    LA     AVOYELLES                       05              31:07      -092:03     85    
+166117  99999   MELVILLE                       UNITED STATES                    LA     ST. LANDRY                      05              30:41      -091:44     30    
+166132  99999   MERIDIAN FIRE TWR              UNITED STATES                    LA     EVANGELINE                      05              30:57      -092:24     -99999
+166142  99999   MERMENTAU                      UNITED STATES                    LA     ACADIA                          07              30:11      -092:35     16    
+166157  99999   METAIRIE                       UNITED STATES                    LA     JEFFERSON                       09              29:59      -090:08     0     
+166202  99999   MILAM TEXAS 8 E                UNITED STATES                    LA     SABINE                          04              31:28      -093:44     131   
+166244  99999   MINDEN                         UNITED STATES                    LA     WEBSTER                         01              32:36      -093:17     185   
+166246  99999   MINDEN 4 NNW                   UNITED STATES                    LA     WEBSTER                         01              32:41      -093:18     240   
+166271  99999   MITTIE 2 SE                    UNITED STATES                    LA     ALLEN                           07              30:42      -092:53     120   
+166295  12916   NEW ORLEANS INTL AP            UNITED STATES                    LA     JEFFERSON                       09              29:59      -090:15     3     
+166303  13942   MONROE RGNL AP                 UNITED STATES                    LA     OUACHITA                        02              32:30      -092:02     79    
+166305  99999   MONROE LOCK 4                  UNITED STATES                    LA     OUACHITA                        02              32:28      -092:07     79    
+166308  99999   MONROE #2                      UNITED STATES                    LA     OUACHITA                        02              32:31      -092:08     31    
+166310  99999   MONROE CITY                    UNITED STATES                    LA     OUACHITA                        02              32:33      -092:07     79    
+166314  99999   MONROE ULM                     UNITED STATES                    LA     OUACHITA                        02              32:32      -092:04     70    
+166324  99999   MONTGOMERY                     UNITED STATES                    LA     GRANT                           01              31:40      -092:54     102   
+166333  99999   MONTROSE                       UNITED STATES                    LA     NATCHITOCHES                    01              31:33      -093:00     102   
+166364  99999   MOORINGSPORT 1 N               UNITED STATES                    LA     CADDO                           01              32:42      -093:57     200   
+166394  99999   MORGAN CITY                    UNITED STATES                    LA     ST. MARY                        08              29:41      -091:10     5     
+166424  99999   MORROW                         UNITED STATES                    LA     ST. LANDRY                      99              30:50      -092:05     49    
+166561  99999   NAPOLEONVILLE                  UNITED STATES                    LA     ASSUMPTION                      08              29:56      -091:00     25    
+166582  99999   NATCHITOCHES                   UNITED STATES                    LA     NATCHITOCHES                    04              31:46      -093:05     130   
+166585  99999   NAVAL AMMUNITION DEPOT         UNITED STATES                    LA     PLAQUEMINES                     09              29:53      -089:59     -99999
+166636  99999   NEW ERA                        UNITED STATES                    LA     CONCORDIA                       01              31:22      -091:50     -99999
+166657  99999   NEW IBERIA ACADIANA AP         UNITED STATES                    LA     IBERIA                          08              30:02      -091:53     24    
+166659  12930   NEW ORLEANS WSFO CITY          UNITED STATES                    LA     ORLEANS                         09              29:57      -090:05     3     
+166659  99999   NEW ORLEANS WBO CITY           UNITED STATES                    LA     ORLEANS                         09              29:57      -090:05     3     
+166660  12916   NEW ORLEANS INTL AP            UNITED STATES                    LA     JEFFERSON                       09              29:59      -090:15     4     
+166661  12916   NEW ORLEANS                    UNITED STATES                    LA     ORLEANS                         09              30:02      -090:01     6     
+166661  53917   NEW ORLEANS                    UNITED STATES                    LA     ORLEANS                         09              30:02      -090:02     6     
+166662  12958   NEW ORLEANS ALVIN CALLENDER F  UNITED STATES                    LA     JEFFERSON                       09              29:50      -090:01     2     
+166664  12930   NEW ORLEANS AUDUBON            UNITED STATES                    LA     ORLEANS                         09              29:55      -090:07     20    
+166664  99999   NEW ORLEANS ADBON WSFO         UNITED STATES                    LA     ORLEANS                         09              29:55      -090:08     10    
+166665  12930   NEW ORLEANS AUDUBON            UNITED STATES                    LA     ORLEANS                         09              29:55      -090:08     10    
+166665  99999   NEW ORLEANS AUDUBON            UNITED STATES                    LA     ORLEANS                         09              29:55      -090:08     10    
+166666  99999   NEW ORLEANS ALGIERS            UNITED STATES                    LA     ORLEANS                         09              29:57      -090:03     2     
+166668  99999   NEW ORLEANS EASTOVER           UNITED STATES                    LA     ORLEANS                         09              30:02      -089:57     -5    
+166669  99999   NEW ORLEANS WTP                UNITED STATES                    LA     ORLEANS                         09              29:57      -090:08     20    
+166670  99999   NEW ORLEANS S&WB               UNITED STATES                    LA     ORLEANS                         09              29:57      -090:03     5     
+166671  99999   NEW ORLEANS JEFFERSON          UNITED STATES                    LA     ORLEANS                         09              29:56      -090:06     0     
+166672  99999   NEW ORLEANS D P S 5            UNITED STATES                    LA     ORLEANS                         09              29:59      -090:01     10    
+166675  99999   NEW ORLEANS D P S 3            UNITED STATES                    LA     ORLEANS                         09              29:59      -090:04     10    
+166676  99999   NEW ORLEANS CARROLLTON         UNITED STATES                    LA     ORLEANS                         09              29:56      -090:08     0     
+166678  99999   NEW ORLEANS PINE VILLA         UNITED STATES                    LA     ORLEANS                         09              30:01      -090:01     -2    
+166679  99999   NEW ORLEANS DPS #6             UNITED STATES                    LA     ORLEANS                         09              29:59      -090:07     0     
+166686  99999   NEW ROADS 5 NE                 UNITED STATES                    LA     POINTE COUPEE                   05              30:43      -091:22     45    
+166794  99999   NORTH LIVINGSTON               UNITED STATES                    LA     LIVINGSTON                      06              30:33      -090:45     10    
+166818  99999   NOTT FIRE TWR                  UNITED STATES                    LA     ST. TAMMANY                     06              30:21      -090:01     10    
+166836  99999   OAKDALE                        UNITED STATES                    LA     ALLEN                           07              30:49      -092:40     110   
+166866  99999   OAK GROVE                      UNITED STATES                    LA     WEST CARROLL                    03              32:51      -091:22     129   
+166868  99999   OAK RIDGE                      UNITED STATES                    LA     MOREHOUSE                       03              32:37      -091:46     82    
+166911  99999   OAKNOLIA 2N                    UNITED STATES                    LA     EAST FELICIANA                  06              30:45      -090:59     150   
+166938  99999   OBERLIN FIRE TWR               UNITED STATES                    LA     ALLEN                           07              30:36      -092:46     65    
+166962  99999   OLD RIVER LOCK                 UNITED STATES                    LA     POINTE COUPEE                   05              31:00      -091:40     70    
+166968  99999   OLD TOWN BAY                   UNITED STATES                    LA     CALCASIEU                       07              30:17      -093:08     12    
+166978  99999   OLLA                           UNITED STATES                    LA     LA SALLE                        05              31:53      -092:14     155   
+166995  99999   OPELOUSAS                      UNITED STATES                    LA     ST. LANDRY                      05              30:30      -092:05     56    
+167001  99999   OPELOUSAS AP                   UNITED STATES                    LA     ST. LANDRY                      02              30:33      -092:05     69    
+167096  99999   PARADIS 7 S                    UNITED STATES                    LA     ST. CHARLES                     09              29:47      -090:25     5     
+167160  99999   PEARL RIVER                    UNITED STATES                    LA     ST. TAMMANY                     06              30:23      -089:44     13    
+167161  99999   PEARL RIVER LOCK 1             UNITED STATES                    LA     ST. TAMMANY                     06              30:27      -089:47     30    
+167162  99999   PEARL RIVER LOCK 2             UNITED STATES                    LA     ST. TAMMANY                     02              30:35      -089:51     49    
+167174  99999   PECAN ISLAND                   UNITED STATES                    LA     VERMILION                       07              29:39      -092:26     -99999
+167304  99999   PINE GROVE FIRE TWR            UNITED STATES                    LA     ST. HELENA                      06              30:42      -090:45     190   
+167331  99999   PITKIN 1 SE                    UNITED STATES                    LA     VERNON                          04              30:55      -092:55     151   
+167344  99999   PLAIN DEALING 4 W              UNITED STATES                    LA     BOSSIER                         01              32:54      -093:47     290   
+167364  99999   PLAQUEMINE                     UNITED STATES                    LA     IBERVILLE                       08              30:18      -091:14     26    
+167366  99999   PLAQUEMINE 2 N                 UNITED STATES                    LA     IBERVILLE                       08              30:19      -091:15     20    
+167368  99999   PLAQUEMINES EXP STN            UNITED STATES                    LA     PLAQUEMINES                     09              29:35      -089:50     4     
+167388  99999   POINT AU FER REEF LH           UNITED STATES                    LA                                     08              29:22      -091:23     0     
+167421  99999   POLLOCK FOREST NURSERY         UNITED STATES                    LA     GRANT                           05              31:30      -092:28     230   
+167432  99999   PONTCHARTRAIN CAUSEWAY         UNITED STATES                    LA     ST. TAMMANY                     06              30:15      -090:07     30    
+167448  99999   PORT ALLEN                     UNITED STATES                    LA     WEST BATON ROUGE                05              30:27      -091:13     15    
+167457  99999   PORT EADS                      UNITED STATES                    LA     PLAQUEMINES                     99              29:01      -089:10     10    
+167471  99999   PORT SULPHUR                   UNITED STATES                    LA     PLAQUEMINES                     09              29:29      -089:42     10    
+167572  99999   QUARANTINE                     UNITED STATES                    LA     PLAQUEMINES                     09              29:13      -089:16     10    
+167678  99999   RAYNE 6 N                      UNITED STATES                    LA     ACADIA                          07              30:20      -092:16     30    
+167680  99999   RAYVILLE 2 N                   UNITED STATES                    LA     RICHLAND                        03              32:30      -091:46     79    
+167738  99999   RED RIVER RSCH STN             UNITED STATES                    LA     BOSSIER                         01              32:25      -093:38     155   
+167767  99999   RESERVE                        UNITED STATES                    LA     ST. JOHN THE BAPTIST            09              30:03      -090:34     15    
+167822  99999   RICHLAND HILL NEAR SCS         UNITED STATES                    LA     EAST FELICIANA                  06              30:59      -090:59     -99999
+167861  99999   RINGGOLD                       UNITED STATES                    LA     BIENVILLE                       99              32:20      -093:16     -99999
+167897  99999   RIVERTON LOCK 3                UNITED STATES                    LA     CALDWELL                        02              32:11      -092:06     79    
+167905  99999   ROBELINE                       UNITED STATES                    LA     NATCHITOCHES                    04              31:41      -093:18     151   
+167924  99999   ROBSON                         UNITED STATES                    LA     CADDO                           01              32:21      -093:38     160   
+167932  99999   ROCKEFELLER WL REFUGE          UNITED STATES                    LA     CAMERON                         07              29:43      -092:49     4     
+167950  99999   RODESSA                        UNITED STATES                    LA     CADDO                           01              32:58      -094:00     200   
+168046  99999   ROSEPINE RSCH STN              UNITED STATES                    LA     VERNON                          04              30:56      -093:16     238   
+168065  99999   RUSTON                         UNITED STATES                    LA     LINCOLN                         02              32:32      -092:36     302   
+168067  99999   RUSTON LA TECH                 UNITED STATES                    LA     LINCOLN                         02              32:32      -092:41     260   
+168094  99999   SAILES FIRE TWR                UNITED STATES                    LA     BIENVILLE                       02              32:21      -093:08     360   
+168108  99999   ST BERNARD                     UNITED STATES                    LA     ST. BERNARD                     09              29:52      -089:49     5     
+168136  99999   ST FRANCISVILLE                UNITED STATES                    LA     WEST FELICIANA                  06              30:46      -091:22     115   
+168137  99999   ST FRANCISVILLE 6 S            UNITED STATES                    LA     WEST FELICIANA                  06              30:43      -091:18     59    
+168139  99999   ST GABRIEL                     UNITED STATES                    LA     IBERVILLE                       08              30:16      -091:05     30    
+168163  99999   ST JOSEPH 3 N                  UNITED STATES                    LA     TENSAS                          03              31:56      -091:14     78    
+168263  99999   SAREPTA 5 N                    UNITED STATES                    LA     WEBSTER                         01              32:57      -093:27     302   
+168295  99999   SCHRIEVER                      UNITED STATES                    LA     TERREBONNE                      09              29:44      -090:49     20    
+168393  99999   SHELL BCH LOYOLA CAMP          UNITED STATES                    LA     ST. BERNARD                     09              29:52      -089:39     -99999
+168405  99999   SHERIDAN FIRE TWR              UNITED STATES                    LA     WASHINGTON                      06              30:51      -089:59     330   
+168430  99999   SHREVEPORT ASF DEPOT           UNITED STATES                    LA     CADDO                           99              32:25      -093:44     220   
+168433  93936   SHREVEPORT                     UNITED STATES                    LA     BOSSIER                         99              32:30      -093:40     -99999
+168436  99999   SHREVEPORT DWTN                UNITED STATES                    LA     CADDO                           01              32:30      -093:44     180   
+168440  13957   SHREVEPORT RGNL AP             UNITED STATES                    LA     CADDO                           01              32:26      -093:49     254   
+168489  99999   SIKES 2 E                      UNITED STATES                    LA     WINN                            02              32:05      -092:28     180   
+168492  99999   SIKES 11 E                     UNITED STATES                    LA     WINN                            01              32:06      -092:20     151   
+168507  99999   SIMMESPORT                     UNITED STATES                    LA     AVOYELLES                       05              30:59      -091:49     49    
+168513  99999   SIMPSON                        UNITED STATES                    LA     VERNON                          04              31:16      -093:00     302   
+168515  99999   SIMPSON 10 ESE                 UNITED STATES                    LA     VERNON                          04              31:13      -092:50     220   
+168519  99999   SINGER                         UNITED STATES                    LA     BEAUREGARD                      07              30:39      -093:25     151   
+168524  99999   SLAGLE                         UNITED STATES                    LA     VERNON                          04              31:12      -093:08     302   
+168539  99999   SLIDELL                        UNITED STATES                    LA     ST. TAMMANY                     06              30:15      -089:46     10    
+168582  99999   SOMERSET                       UNITED STATES                    LA     TENSAS                          03              32:11      -091:14     -99999
+168598  99999   SORREL                         UNITED STATES                    LA     IBERVILLE                       99              30:10      -091:21     10    
+168669  99999   SPEARSVILLE FIRE TWR           UNITED STATES                    LA     UNION                           02              32:54      -092:34     200   
+168683  99999   SPRINGHILL                     UNITED STATES                    LA     WEBSTER                         01              32:59      -093:26     240   
+168715  99999   SPRINGVILLE FIRE TWR           UNITED STATES                    LA     LIVINGSTON                      06              30:26      -090:39     30    
+168750  99999   STARKS FIRE TWR                UNITED STATES                    LA     CALCASIEU                       07              30:19      -093:40     -99999
+168785  99999   STERLINGTON                    UNITED STATES                    LA     OUACHITA                        02              32:42      -092:04     85    
+168795  99999   STEVENSON FIRE TWR             UNITED STATES                    LA     MOREHOUSE                       03              32:54      -091:58     148   
+168800  99999   STILLE                         UNITED STATES                    LA     VERNON                          99              31:14      -092:56     280   
+168813  99999   STONYPOINT                     UNITED STATES                    LA     EAST BATON ROUGE                06              30:39      -090:56     -99999
+168828  99999   SUGARTOWN                      UNITED STATES                    LA     BEAUREGARD                      07              30:51      -093:01     170   
+168831  99999   SULPHUR                        UNITED STATES                    LA     CALCASIEU                       07              30:14      -093:20     10    
+168910  99999   TALISHEEK TOWER                UNITED STATES                    LA     ST. TAMMANY                     99              30:33      -089:57     60    
+168923  99999   TALLULAH                       UNITED STATES                    LA     MADISON                         03              32:23      -091:11     85    
+169013  99999   THIBODAUX 3 ESE                UNITED STATES                    LA     LAFOURCHE                       09              29:46      -090:46     15    
+169103  99999   TRANSYLVANIA                   UNITED STATES                    LA     EAST CARROLL                    03              32:41      -091:11     101   
+169235  99999   URANIA                         UNITED STATES                    LA     LA SALLE                        05              31:52      -092:18     102   
+169319  99999   VERMILION LOCK                 UNITED STATES                    LA     VERMILION                       07              29:47      -092:12     10    
+169355  99999   VIDALIA NATCHEZ                UNITED STATES                    LA     CONCORDIA                       05              31:32      -091:26     50    
+169357  99999   VIDALIA #2                     UNITED STATES                    LA     CONCORDIA                       05              31:33      -091:26     60    
+169369  99999   VILLE PLATTE                   UNITED STATES                    LA     EVANGELINE                      05              30:41      -092:15     70    
+169375  99999   VINTON                         UNITED STATES                    LA     CALCASIEU                       07              30:11      -093:34     12    
+169378  99999   VIOLET                         UNITED STATES                    LA     ST. BERNARD                     09              29:55      -089:54     10    
+169455  99999   WALLACE LAKE DAM               UNITED STATES                    LA     CADDO                           99              32:20      -093:40     -99999
+169480  99999   WATSON 3 ESE                   UNITED STATES                    LA     LIVINGSTON                      06              30:33      -090:55     60    
+169583  99999   WELDON                         UNITED STATES                    LA     CLAIBORNE                       01              32:52      -092:44     180   
+169610  99999   WESTDALE 3 SW                  UNITED STATES                    LA     RED RIVER                       01              32:10      -093:30     -99999
+169631  99999   WEST MONROE                    UNITED STATES                    LA     OUACHITA                        02              32:27      -092:08     75    
+169661  99999   WEYANOKE 2 SW                  UNITED STATES                    LA     WEST FELICIANA                  06              30:55      -091:28     240   
+169803  99999   WINNFIELD 3 N                  UNITED STATES                    LA     WINN                            02              31:57      -092:39     160   
+169806  99999   WINNSBORO 5 SSE                UNITED STATES                    LA     FRANKLIN                        03              32:05      -091:42     80    
+169809  99999   WINONA FIRE TWR                UNITED STATES                    LA     WINN                            02              32:01      -092:39     220   
+169820  99999   WISNER                         UNITED STATES                    LA     FRANKLIN                        99              31:59      -091:39     77    
+169838  99999   WOODLAND                       UNITED STATES                    LA     EAST FELICIANA                  06              30:57      -090:56     322   
+169860  99999   WOODWORTH 3 ESE                UNITED STATES                    LA     RAPIDES                         05              31:08      -092:27     69    
+169864  99999   WOODWORTH TWR                  UNITED STATES                    LA     RAPIDES                         02              31:11      -092:34     89    
+169865  99999   WOODWORTH 2 SE                 UNITED STATES                    LA     RAPIDES                         05              31:07      -092:28     116   
+169930  99999   ZACHARY                        UNITED STATES                    LA     EAST BATON ROUGE                06              30:40      -091:07     120   
+999999  03931   FT POLK AAF                    UNITED STATES                    LA     VERNON                          99              31:03      -093:11     -99999
+999999  03934   NEW IBERIA NAAS                UNITED STATES                    LA     IBERIA                          99              30:02      -091:53     -99999
+999999  12927   HOUMA TERREBONNE AP            UNITED STATES                    LA     TERREBONNE                      09              29:33      -090:39     -99999
+999999  12958   NEW ORLEANS ALVIN CALLENDER F  UNITED STATES                    LA     JEFFERSON                       09              29:49      -090:01     -99999
+999999  13934   ENGLAND AFB                    UNITED STATES                    LA     RAPIDES                         99              31:19      -092:33     -99999
+999999  13935   ALEXANDRIA ESLER RGNL AP       UNITED STATES                    LA     RAPIDES                         05              31:23      -092:17     -99999
+999999  13941   LAKE CHARLES CHENNAULT INTL A  UNITED STATES                    LA     CALCASIEU                       07              30:12      -093:08     -99999
+999999  13944   SHREVEPORT BARKSDALE AFB       UNITED STATES                    LA     BOSSIER                         99              32:30      -093:40     -99999
+999999  93906   NEW ORLEANS NAS                UNITED STATES                    LA     ORLEANS                         99              30:02      -090:05     -99999
+999999  93915   ALEXANDRIA INTL AP             UNITED STATES                    LA     RAPIDES                         99              31:20      -092:33     84    
