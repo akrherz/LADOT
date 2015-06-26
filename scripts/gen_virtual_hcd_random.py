@@ -22,21 +22,40 @@ ahigh = cnc.variables['high']
 alow = cnc.variables['low']
 ap01d = cnc.variables['p01d']
 
-# Unsure why I have these hard coded here...
-# DELTAT = [1.3, 1.5, 3.2, 2.4, 2.7, 1.9, 2.8, 2., 1.7, 1.9, 2.0, 1.4]
-# DELTAP = [-0.208, -0.133,  0.407,  0.144,  0.388, 0.132, -0.174,
-#          0.173,  0.682, -0.197,  0.374, -0.114]
+# Temperature periods
+A = [datetime.datetime(1970, 1, 1), datetime.datetime(1974, 12, 31, 23)]
+B = [datetime.datetime(1975, 1, 1), datetime.datetime(1978, 12, 31, 23)]
+C = [datetime.datetime(1979, 1, 1), datetime.datetime(1982, 12, 31, 23)]
+D = [datetime.datetime(1983, 1, 1), datetime.datetime(1987, 12, 31, 23)]
+E = [datetime.datetime(1988, 1, 1), datetime.datetime(1991, 12, 31, 23)]
+F = [datetime.datetime(1992, 1, 1), datetime.datetime(1996, 12, 31, 23)]
+G = [datetime.datetime(1997, 1, 1), datetime.datetime(2002, 12, 31, 23)]
+H = [datetime.datetime(2003, 1, 1), datetime.datetime(2009, 12, 31, 23)]
 
-PERIODS = [
-  [datetime.datetime(1975, 1, 1), datetime.datetime(1978, 12, 31, 23)],
-  [datetime.datetime(1988, 1, 1), datetime.datetime(1991, 12, 31, 23)],
-  [datetime.datetime(1997, 1, 1), datetime.datetime(2002, 12, 31, 23)],
-  [datetime.datetime(1979, 1, 1), datetime.datetime(1982, 12, 31, 23)],
-  [datetime.datetime(1992, 1, 1), datetime.datetime(1996, 12, 31, 23)],
-  [datetime.datetime(1983, 1, 1), datetime.datetime(1987, 12, 31, 23)],
-  [datetime.datetime(2003, 1, 1), datetime.datetime(2009, 12, 31, 23)],
-  [datetime.datetime(1970, 1, 1), datetime.datetime(1974, 12, 31, 23)],
-]
+# Temperature Periods, Random Sorted
+# PERIODS = [B, E, G, C, F, D, H, A]
+# Temperature Periods, Worst Case
+PERIODS = [G, H, C, D, F, B, E, A]
+# Temperature Periods, Best Case (hot last)
+PERIODS.reverse()
+
+# Precipitation Periods
+A = [datetime.datetime(1970, 1, 1), datetime.datetime(1975, 12, 31, 23)]
+B = [datetime.datetime(1976, 1, 1), datetime.datetime(1979, 12, 31, 23)]
+C = [datetime.datetime(1980, 1, 1), datetime.datetime(1985, 12, 31, 23)]
+D = [datetime.datetime(1986, 1, 1), datetime.datetime(1989, 12, 31, 23)]
+E = [datetime.datetime(1990, 1, 1), datetime.datetime(1992, 12, 31, 23)]
+F = [datetime.datetime(1993, 1, 1), datetime.datetime(1999, 12, 31, 23)]
+G = [datetime.datetime(2000, 1, 1), datetime.datetime(2004, 12, 31, 23)]
+H = [datetime.datetime(2005, 1, 1), datetime.datetime(2009, 12, 31, 23)]
+
+# There is no random sorted percipitation period!
+# Precipitation Periods, Worst Case
+PERIODS = [E, G, A, C, D, B, F, H]
+# Precipitation Periods, Best Case
+PERIODS.reverse()
+
+
 # OFFSET these into the future period 2010->2050
 for i in range(len(PERIODS)):
     for j in range(2):
@@ -144,8 +163,6 @@ def runner():
     for line in open('/mesonet/share/pickup/ladot/virtual_station.dat'):
         tokens = line.split(",")
         stid = tokens[0]
-        if int(stid) < 35:
-            continue
         lat = float(tokens[3])
         lon = float(tokens[4])
 
