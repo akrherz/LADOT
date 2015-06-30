@@ -1,11 +1,17 @@
 import subprocess
 import pdb
 import math
-import numpy
+import numpy as np
 import numpy.ma
 import netCDF4
 import psycopg2
 import datetime
+import sys
+import matplotlib
+matplotlib.use('agg')
+import matplotlib.pyplot as plt
+
+DEBUG = (len(sys.argv) == 2)
 
 POSTGIS = psycopg2.connect(database='postgis', host='iemdb', user='nobody')
 pcursor = POSTGIS.cursor()
@@ -185,6 +191,9 @@ def runner():
         s_p01d = ap01d[:, gridy, gridx]
 
         fmt = ",%.1f,%.1f,%.1f,%.2f,%.1f\n"
+        # So the timestamps stored in the ASOS grid netCDF file are in local
+        # time (sigh), so the MEPDG file has timestamps in UTC, so we
+        # bootstrap the first seven hours
         sts = datetime.datetime(2010, 1, 1, 7)
         ets = datetime.datetime(2050, 1, 1, 7)
         BASE = datetime.datetime(2010, 1, 1, 0)
@@ -193,7 +202,6 @@ def runner():
         MAXDSZ = int((END - BASE).total_seconds() / 86400.)
         interval = datetime.timedelta(days=1)
 
-        now = sts
         p_tmpf = [0]*24
         p_mph = [0]*24
         p_psun = [0]*24
@@ -209,19 +217,17 @@ def runner():
         phour = s_ap01m[:7] / 25.4  # Convert to inches
         relh = s_arelh[:7]
         for i in range(len(tmpf)):
-            ts = now - datetime.timedelta(hours=(7-i))
-            ds[ts] = (fmt % (tmpf[i], mph[i],
-                             psun[i], phour[i], relh[i]))
+            ts = sts - datetime.timedelta(hours=(7-i))
+            ds[ts] = [tmpf[i], mph[i], psun[i], phour[i], relh[i]]
 
+        now = sts
         while now < ets:
             high_off = DELTAT[now.month - 1]
             low_off = DELTAT[now.month - 1]
 
-            aoffset1 = int((now - BASE).total_seconds() / 3600.)
+            aoffset1 = int((now - BASE).total_seconds() / 3600.) - 6
             aoffset2 = int(((now + datetime.timedelta(days=1)) -
-                            BASE).total_seconds() / 3600.)
-            if aoffset1 < 0:
-                aoffset1 = 0
+                            BASE).total_seconds() / 3600.) - 6
             if aoffset2 >= MAXSZ:
                 aoffset2 = MAXSZ
             coffset = int((now - BASE).days) + 1
@@ -258,23 +264,82 @@ def runner():
 
             for i in range(len(tmpf)):
                 ts = now + datetime.timedelta(hours=i)
-                s = fmt % (tmpf[i], mph[i],
-                           psun[i], phour[i], relh[i])
-                if s.find('nan') > -1:
-                    pdb.set_trace()
-                ds[ts] = s
+                ds[ts] = [tmpf[i], mph[i],
+                          psun[i], phour[i], relh[i]]
             now += interval
-        out = open("%s.hcd" % (stid,), 'w')
+        # Now we need to do some smoothing between the periods to prevent
+        # wild jumps in the data
+        for (sts, ets) in PERIODS:
+            # We can't worry about the first year
+            if sts.year == 2010:
+                continue
+            sts += datetime.timedelta(hours=7)
+            t1 = sts + datetime.timedelta(hours=-1)
+            deltat = (ds[sts][0] - ds[t1][0]) / 2.
+            midpt = ds[sts][0] - deltat
+            rdelta = midpt - ds[sts][0]
+            ldelta = midpt - ds[t1][0]
+            oldt = []
+            newt = []
+            deltas = []
+            for hr in range(-24, 24):
+                ts = sts + datetime.timedelta(hours=hr)
+                delta = ldelta if hr < 0 else rdelta
+                newv = ((ds[ts][0] + delta * (1. / (abs(hr)+1)))
+                        if hr != 0 else midpt)
+                if DEBUG:
+                    oldt.append(ds[ts][0])
+                    newt.append(newv)
+                    deltas.append(newt[-1] - ds[ts][0])
+                    print(("%s %5.2f [%5.2f] %5.2f %5.2f %5.2f %5.2f"
+                           ) % (ts.strftime("%Y%m%d%H"), oldt[-1],
+                                newt[-1],
+                                ds[ts][1],
+                                ds[ts][2], ds[ts][3], ds[ts][4]))
+                # Assign the new value
+                ds[ts][0] = newv
+            if DEBUG:
+                (fig, ax) = plt.subplots(2, 1, sharex=True)
+                ax[0].set_title("Example Temp Smoother to Merge Periods")
+                ax[0].set_ylabel("Air Temperature $^\circ$F")
+                ax[0].bar(np.arange(-24, 24)-0.4, oldt, width=0.8,
+                          facecolor='tan',
+                          label='Old', zorder=1, edgecolor='tan')
+                ax[0].scatter(range(-24, 24), newt, marker='o', color='b',
+                              s=40, label='New', zorder=2)
+                ax[0].set_xlim(-25, 25)
+                ax[0].set_xticks(np.arange(-24, 24, 6))
+                ax[0].grid(True)
+                ax[0].set_ylim(min(oldt)-3, max(oldt)+3)
+                ax[0].legend(loc='best')
+                bars = ax[1].bar(np.arange(-24, 24)-0.4, deltas, width=0.8,
+                                 facecolor='b', edgecolor='b')
+                for i, bar in enumerate(bars):
+                    if deltas[i] > 0:
+                        bar.set_facecolor('r')
+                        bar.set_edgecolor('r')
+                ax[1].grid(True)
+                ax[1].set_ylabel("Delta Applied $^\circ$F")
+                ax[1].set_xlabel("Hours around 1 January 12 AM")
+                fig.savefig('test-%s.png' % (sts.strftime("%Y%m%d"),))
+                plt.close()
+                print("--------------")
         # Now the magic to rewite these data
+        out = open("%s.hcd" % (stid,), 'w')
         realts = datetime.datetime(2010, 1, 1)
         for (sts, ets) in PERIODS:
             now = sts
             while now <= ets:
-                out.write(realts.strftime("%Y%m%d%H") + ds[now])
+                s = fmt % tuple(ds[now])
+                if s.find('nan') > 0:
+                    print('NaN Found in output: %s, debugging' % (s,))
+                    pdb.set_trace()
+                out.write(realts.strftime("%Y%m%d%H") + s)
                 now += datetime.timedelta(hours=1)
                 realts += datetime.timedelta(hours=1)
         out.close()
         subprocess.call("python qc_hcd.py %s.hcd" % (stid,), shell=True)
+        return
 
 if __name__ == '__main__':
     runner()
