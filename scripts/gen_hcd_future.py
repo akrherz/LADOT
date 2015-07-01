@@ -39,12 +39,12 @@ G = [datetime.datetime(1997, 1, 1), datetime.datetime(2002, 12, 31, 23)]
 H = [datetime.datetime(2003, 1, 1), datetime.datetime(2009, 12, 31, 23)]
 
 # Temperature Periods, Random Sorted
-# PERIODS = [B, E, G, C, F, D, H, A]
+PERIODS = [B, E, G, C, F, D, H, A]
 # Temperature Periods, Worst Case
-PERIODS = [G, H, C, D, F, B, E, A]
+# PERIODS = [G, H, C, D, F, B, E, A]
 # Temperature Periods, Best Case (hot last)
-PERIODS.reverse()
-
+# PERIODS.reverse()
+"""
 # Precipitation Periods
 A = [datetime.datetime(1970, 1, 1), datetime.datetime(1975, 12, 31, 23)]
 B = [datetime.datetime(1976, 1, 1), datetime.datetime(1979, 12, 31, 23)]
@@ -60,7 +60,7 @@ H = [datetime.datetime(2005, 1, 1), datetime.datetime(2009, 12, 31, 23)]
 PERIODS = [E, G, A, C, D, B, F, H]
 # Precipitation Periods, Best Case
 PERIODS.reverse()
-
+"""
 # OFFSET these into the future period 2010->2050
 for i in range(len(PERIODS)):
     for j in range(2):
@@ -146,9 +146,10 @@ def get_deltas(lon, lat):
     sector first!
     """
     pcursor.execute("""
-        SELECT ST_x(ST_Centroid(the_geom)), ST_y(ST_Centroid(the_geom))
-        from climate_div WHERE st = 'LA' and
-        ST_Contains(the_geom, ST_GeomFromText('SRID=4326;POINT(%s %s)'))
+        SELECT ST_x(ST_Centroid(the_geom)), ST_y(ST_Centroid(the_geom)),
+        ST_distance(the_geom, ST_SetSRID(
+        ST_GeomFromText('SRID=4326;POINT(%s %s)'), 4326))
+        from climate_div WHERE st = 'LA' ORDER by ST_DISTANCE ASC
         """ % (lon, lat))
     row = pcursor.fetchone()
     if row is None:
@@ -168,6 +169,8 @@ def runner():
     for line in open('/mesonet/share/pickup/ladot/virtual_station.dat'):
         tokens = line.split(",")
         stid = tokens[0]
+        # if stid not in ['00035', '00037']:
+        #     continue
         lat = float(tokens[3])
         lon = float(tokens[4])
 
