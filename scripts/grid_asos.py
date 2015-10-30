@@ -5,12 +5,11 @@
 # Precipitation,
 # Relative humidity.
 
-import sys
 import netCDF4
 import numpy as np
 import datetime
 import psycopg2.extras
-from scipy.interpolate import NearestNDInterpolator
+from scipy.interpolate import griddata
 from pyiem.datatypes import temperature
 from pyiem import meteorology
 from pyiem.network import Table as NetworkTable
@@ -107,8 +106,7 @@ def grid_wind(nc, ts, rs):
     if len(vals) < 4:
         print "No WIND data at all for time: %s" % (ts,)
         return
-    nn = NearestNDInterpolator((lons, lats), np.array(vals))
-    grid = nn(XI, YI)
+    grid = griddata((lons, lats), np.array(vals), (XI, YI), method='nearest')
     offset = int((ts - BASE).total_seconds() / 3600.)
     if grid is not None:
         nc.variables['smps'][offset, :, :] = np.where(grid < 0., 0., grid)
@@ -130,8 +128,7 @@ def grid_relh(nc, ts, rs):
     if len(vals) < 4:
         print "No RELH data at all for time: %s" % (ts,)
         return
-    nn = NearestNDInterpolator((lons, lats), np.array(vals))
-    grid = nn(XI, YI)
+    grid = griddata((lons, lats), np.array(vals), (XI, YI), method='nearest')
     offset = int((ts - BASE).total_seconds() / 3600.)
     if grid is not None:
         nc.variables['relh'][offset, :, :] = np.where(grid < 12., 12., grid)
@@ -152,8 +149,7 @@ def grid_skyc(nc, ts, rs):
     if len(vals) < 4:
         print "No SKYC data at all for time: %s" % (ts,)
         return
-    nn = NearestNDInterpolator((lons, lats), np.array(vals))
-    grid = nn(XI, YI)
+    grid = griddata((lons, lats), np.array(vals), (XI, YI), method='nearest')
     offset = int((ts - BASE).total_seconds() / 3600.)
     if grid is not None:
         gt = np.where(grid > 0., grid, 0.0)
@@ -175,8 +171,7 @@ def grid_tmpf(nc, ts, rs):
     if len(vals) < 4:
         print "No TMPF data at all for time: %s" % (ts,)
         return
-    nn = NearestNDInterpolator((lons, lats), np.array(vals))
-    grid = nn(XI, YI)
+    grid = griddata((lons, lats), np.array(vals), (XI, YI))
     offset = int((ts - BASE).total_seconds() / 3600.)
     if grid is not None:
         nc.variables['tmpk'][offset, :, :] = grid
@@ -193,8 +188,7 @@ def grid_p01m(nc, ts, rs):
         lons.append(nt.sts[rs[i]['station']]['lon'])
         vals.append(rs[i]['max_p01m'])
 
-    nn = NearestNDInterpolator((lons, lats), np.array(vals))
-    grid = nn(XI, YI)
+    grid = griddata((lons, lats), np.array(vals), (XI, YI), method='nearest')
     offset = int((ts - BASE).total_seconds() / 3600.)
     if grid is not None:
         nc.variables['p01m'][offset, :, :] = np.where(grid > 0., grid, 0.)
@@ -237,12 +231,13 @@ def grid_hour(nc, ts, ids):
 #
 # create_netcdf()
 # sys.exit()
+# Include Florida data so that we get some analysis over the gulf
 nt = NetworkTable(('MS_ASOS', 'LA_ASOS', 'AR_ASOS',
-                   'TX_ASOS', 'OK_ASOS'))
-ids = `nt.sts.keys()`
+                   'TX_ASOS', 'OK_ASOS', 'FL_ASOS'))
+ids = str(nt.sts.keys())
 ids = "(%s)" % (ids[1:-1],)
 nc = netCDF4.Dataset("../data/asosgrid.nc", 'a')
-"""
+# """
 # Redo 31 Dec each year
 for yr in range(1970, 2011):
     for hr in range(24):
@@ -255,4 +250,5 @@ while now < ets:
     print now
     grid_hour(nc, now)
     now += datetime.timedelta(hours=1)
+"""
 nc.close()

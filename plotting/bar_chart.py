@@ -1,10 +1,9 @@
 import netCDF4
 import matplotlib.pyplot as plt
 import numpy
-import iemdb
+import psycopg2
 
-def find_yx(lon, lat):
-    nc = netCDF4.Dataset('monthly_deltas.nc')
+def find_yx(nc, lon, lat):
     lats = nc.variables['lat'][:]
     lons = nc.variables['lon'][:]
     nc.close()
@@ -23,10 +22,11 @@ def find_yx(lon, lat):
 
 
 def doit(lon, lat, name):
-  (y,x) = find_yx(lon, lat) 
-  nc = netCDF4.Dataset('monthly_deltas.nc')
+  nc = netCDF4.Dataset('../data/monthly_deltas.nc')
+  (y,x) = find_yx(nc, lon, lat) 
 
   T = nc.variables['deltat'][:,y,x]
+  print T
   P = nc.variables['deltap'][:,y,x]
   nc.close()
 
@@ -62,14 +62,11 @@ def doit(lon, lat, name):
   fig.savefig('mon_%s_chart.png' % (name,))
   del fig
 
-import iemdb
-POSTGIS = iemdb.connect('postgis', bypass=True)
+POSTGIS = psycopg2.connect(database='postgis', host='iemdb', user='nobody')
 pcursor = POSTGIS.cursor()
 
 pcursor.execute("""select ST_x(ST_Centroid(the_geom)), ST_y(ST_Centroid(the_geom)),
 name from climate_div WHERE st = 'LA'""")
 
 for row in pcursor:
-  doit(row[0], row[1], row[2])
-
-
+    doit(row[0], row[1], row[2])
